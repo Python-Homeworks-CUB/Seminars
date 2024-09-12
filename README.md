@@ -33,11 +33,11 @@
 			<td><a href="https://classroom.github.com/a/SLG27MGQ">https://classroom.github.com/a/SLG27MGQ</a></td>
 			<td>September 19, 23:59</td>
 		</tr>
-		<!-- <tr>
+		<tr>
 			<td>2</td>
 			<td><a href="Week 2 — Data Structures.md">Data Structures</a></td>
 			<td>TBA</td>
 			<td>TBA</td>
-		</tr> -->
+		</tr>
 	</tbody>
 </table>
