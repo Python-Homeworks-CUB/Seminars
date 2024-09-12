@@ -1,7 +1,7 @@
 # Warm Up
 
 Write the following functions:
-* sum_with_step_k(nums, k)
+* `sum_with_step_k(nums, k)`
 
 Description: This function takes a list of integers (nums) and a positive integer (k). It returns the sum of all the integers in the list where the indices of these integers are divisible by k.
 
@@ -12,7 +12,7 @@ Example:
 ```
 Explanation: 22 = 1 + 4 + 7 + 10
 
-* max_element(nums)
+* `max_element(nums)`
 
 Description: This function takes a list of integers (nums) and returns the index of the maximum element in the list. \
 Note: You can solve this problem using a one-liner with the built-in max function and enumerate function.
@@ -23,7 +23,7 @@ Example:
 0
 ```
 
-* k_multiples(a, b, k)
+* `k_multiples(a, b, k)`
 
 Description: This function takes two integers a and b and a positive integer k. It returns the list of multiples of k in the range from a to b.
 
