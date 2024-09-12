@@ -39,5 +39,65 @@
 			<td>TBA</td>
 			<td>TBA</td>
 		</tr>
+		<tr>
+			<td>3</td>
+			<td>Classes</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Strings</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>Numpy & Scipy</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Pandas</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>Plot</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>IO</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>Packages</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>Exceptions</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>Generators & Async</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>Decorators & Lambdas</td>
+			<td></td>
+			<td></td>
+		</tr>
 	</tbody>
 </table>
