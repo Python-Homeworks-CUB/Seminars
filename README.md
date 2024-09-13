@@ -3,6 +3,8 @@
 
 <br>
 
+> Instructions for setting up the environment and submitting homework can be found here: [`SETUP.md`](SETUP.md)
+
 <table align="center">
 	<thead>
 		<tr>
