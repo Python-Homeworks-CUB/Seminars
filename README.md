@@ -5,6 +5,9 @@
 
 > Instructions for setting up the environment and submitting homework can be found here: [`SETUP.md`](SETUP.md)
 
+> All other links can be found on our [landing page](https://silly-antique-c08.notion.site/Python-2024-CUB-1004177ba1ef80c78a93c593356c7333)
+
+
 <table align="center">
 	<thead>
 		<tr>
