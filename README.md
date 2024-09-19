@@ -46,9 +46,9 @@
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Classes</td>
-			<td></td>
-			<td></td>
+			<td><a href="Week 3 — Classes.md">Classes</a> (<a href="Week 3 — Classes Theory.md">Classes Theory</a>)</td>
+			<td>TBA</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>4</td>
