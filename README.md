@@ -47,8 +47,8 @@
 		<tr>
 			<td>3</td>
 			<td><a href="Week 3 — Classes.md">Classes</a> (<a href="Week 3 — Classes Theory.md">Classes Theory</a>)</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td><a href="https://classroom.github.com/a/Sxy5bG5S">https://classroom.github.com/a/Sxy5bG5S</a></td>
+			<td>October 11, 23:59</td>
 		</tr>
 		<tr>
 			<td>4</td>
