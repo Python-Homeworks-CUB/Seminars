@@ -42,7 +42,7 @@
 			<td>2</td>
 			<td><a href="Week 2 — Data Structures.md">Data Structures</a></td>
 			<td><a href="https://classroom.github.com/a/VtCZFazd">https://classroom.github.com/a/VtCZFazd</a></td>
-			<td>September 27, 23:59</td>
+			<td>October 4, 23:59</td>
 		</tr>
 		<tr>
 			<td>3</td>
