@@ -64,13 +64,15 @@
 		</tr>
 		<tr>
 			<td>5</td>
-			<td>Numpy & Pandas</td>
+			<!-- <td>Numpy & Pandas</td> -->
+			<td>Numpy</td>
+			<!-- <td><a href="Week 2 — Numpy.md">Numpy</a></td> -->
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>Numpy & Scipy</td>
+			<td>Numpy & Scipy & Pandas (???)</td>
 			<td></td>
 			<td></td>
 		</tr>
