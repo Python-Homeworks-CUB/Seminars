@@ -64,13 +64,13 @@
 		</tr>
 		<tr>
 			<td>5</td>
-			<td>Numpy & Scipy</td>
+			<td>Numpy & Pandas</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>Pandas</td>
+			<td>Numpy & Scipy</td>
 			<td></td>
 			<td></td>
 		</tr>

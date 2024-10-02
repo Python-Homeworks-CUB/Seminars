@@ -1,0 +1,1001 @@
+VisitorID,Name,Age,Sex,TicketClass,Fare,TicketNumber,RideType,EntryTime,Exited,EnteredVia
+1,"Williams, Sally",39.0,male,1,68.1,16798,nan,2024-10-01 21:00:00,True,North Gate
+2,"Wilson, Jane",16.0,male,1,97.2,14FLKT,rollercoaster,2024-10-01 14:42:00,True,Main Entrance
+3,"Jones, Michelle",,female,2,39.78,3251,haunted house,2024-10-01 16:55:00,True,North Gate
+4,"Brown, Daniel",,female,2,47.8,04114,bumper cars,2024-10-01 21:08:00,True,North Gate
+5,"Moore, Michael",,male,3,47.7,01352,haunted house,2024-10-01 13:25:00,True,Main Entrance
+6,"Wilson, Michelle",46.0,female,1,73.4,5ZP2DC,nan,2024-10-01 14:45:00,True,North Gate
+7,"Miller, Daniel",32.0,female,2,38.98,88231705,bumper cars,2024-10-01 13:59:00,True,East Gate
+8,"Smith, Chris",44.0,female,2,66.8,92373730,haunted house,2024-10-01 10:10:00,False,Main Entrance
+9,"Williams, Daniel",47.0,male,3,21.59,LL5D21,rollercoaster,2024-10-01 18:51:00,False,East Gate
+10,"Wilson, Daniel",29.0,female,3,32.44,694396,,2024-10-01 11:21:00,True,Main Entrance
+11,"Jones, Daniel",41.0,male,2,23.01,19282,bumper cars,2024-10-01 12:06:00,True,North Gate
+12,"Taylor, Danielle",28.0,male,2,72.42,413685,carousel,2024-10-01 16:44:00,False,Main Entrance
+13,"Smith, Sam",17.0,male,2,97.77,72236,haunted house,2024-10-01 12:57:00,True,North Gate
+14,"Brown, Sally",13.0,female,1,68.99,59265932,nan,2024-10-01 21:32:00,False,North Gate
+15,"Davis, Jane",32.0,male,1,51.95,S85K23,water slide,2024-10-01 18:42:00,True,North Gate
+16,"Jones, Danielle",72.0,male,2,32.58,118856,rollercoaster,2024-10-01 11:17:00,True,East Gate
+17,"Wilson, Michael",71.0,male,2,57.97,SR8R60,bumper cars,2024-10-01 18:22:00,False,Main Entrance
+18,"Taylor, Jane",43.0,female,2,51.03,69253,carousel,2024-10-01 12:48:00,True,North Gate
+19,"Wilson, Chris",21.0,male,2,48.54,53476265,rollercoaster,2024-10-01 09:17:00,True,East Gate
+20,"Williams, Daniel",43.0,male,1,108.13,N51WEF,rollercoaster,2024-10-01 19:17:00,True,North Gate
+21,"Jones, Chris",67.0,female,3,49.44,42215,nan,2024-10-01 12:46:00,True,East Gate
+22,"Johnson, Michael",54.0,male,3,27.48,6GTKEJ,haunted house,2024-10-01 10:13:00,False,Main Entrance
+23,"Miller, Michael",76.0,male,2,69.18,782421,water slide,2024-10-01 10:47:00,True,Main Entrance
+24,"Johnson, Danielle",14.0,female,1,138.22,44039638,rollercoaster,2024-10-01 13:52:00,True,Main Entrance
+25,"Wilson, John",39.0,male,2,25.45,5998,haunted house,2024-10-01 19:56:00,True,Main Entrance
+26,"Brown, Jane",41.0,male,2,67.11,918551,rollercoaster,2024-10-01 17:20:00,True,North Gate
+27,"Taylor, Daniel",51.0,female,3,38.84,919211,carousel,2024-10-01 15:24:00,True,North Gate
+28,"Taylor, Jane",68.0,female,2,51.56,Q9WFWA,carousel,2024-10-01 20:10:00,True,East Gate
+29,"Davis, Jane",33.0,male,1,49.3,5595,haunted house,2024-10-01 12:46:00,False,North Gate
+30,"Moore, Danielle",28.0,female,2,40.1,67982,water slide,2024-10-01 17:56:00,True,North Gate
+31,"Smith, John",16.0,female,1,134.38,19412,haunted house,2024-10-01 14:30:00,True,North Gate
+32,"Davis, Jane",68.0,male,2,46.4,UFKNO4,nan,2024-10-01 15:06:00,True,Main Entrance
+33,"Jones, Danielle",18.0,male,2,24.65,216910,haunted house,2024-10-01 16:38:00,True,Main Entrance
+34,"Jones, Chris",11.0,male,2,49.69,RFW8NB,carousel,2024-10-01 11:17:00,False,North Gate
+35,"Wilson, Sam",33.0,female,2,99.61,6DVEF1,haunted house,2024-10-01 16:50:00,True,Main Entrance
+36,"Taylor, Danielle",39.0,female,2,84.62,1177,,2024-10-01 09:54:00,True,North Gate
+37,"Davis, Michelle",64.0,male,2,96.09,140640,carousel,2024-10-01 21:54:00,True,North Gate
+38,"Moore, Sam",39.0,male,2,22.49,47193,bumper cars,2024-10-01 15:42:00,False,Main Entrance
+39,"Miller, Danielle",39.0,female,3,47.21,735433,rollercoaster,2024-10-01 21:42:00,True,East Gate
+40,"Williams, Michael",25.0,male,3,10.48,35567,bumper cars,2024-10-01 10:42:00,True,East Gate
+41,"Williams, Christina",8.0,male,3,49.61,03876434,haunted house,2024-10-01 14:04:00,True,North Gate
+42,"Taylor, Daniel",72.0,male,2,56.03,6947,carousel,2024-10-01 13:20:00,True,North Gate
+43,"Taylor, Danielle",,male,3,31.02,87173,bumper cars,2024-10-01 16:40:00,True,Main Entrance
+44,"Smith, Danielle",44.0,female,2,72.23,6559,nan,2024-10-01 16:44:00,False,North Gate
+45,"Brown, Jane",35.0,female,2,69.08,19M3ED,nan,2024-10-01 18:07:00,True,North Gate
+46,"Taylor, Michael",76.0,male,2,93.83,19792,rollercoaster,2024-10-01 11:00:00,True,Main Entrance
+47,"Miller, Chris",62.0,female,2,99.6,14652860,carousel,2024-10-01 19:07:00,True,North Gate
+48,"Jones, Michael",68.0,female,1,75.15,958370,carousel,2024-10-01 09:08:00,True,North Gate
+49,"Williams, Chris",53.0,male,1,91.39,7OAPV0,rollercoaster,2024-10-01 21:39:00,True,North Gate
+50,"Davis, Sam",,male,2,70.48,01439586,water slide,2024-10-01 10:54:00,True,Main Entrance
+51,"Wilson, Michelle",,female,1,50.47,789204,water slide,2024-10-01 14:41:00,True,East Gate
+52,"Moore, John",45.0,male,1,72.37,75489103,rollercoaster,2024-10-01 17:16:00,True,North Gate
+53,"Brown, Danielle",29.0,female,3,33.71,048871,,2024-10-01 10:31:00,True,Main Entrance
+54,"Moore, John",27.0,male,2,31.87,726426,carousel,2024-10-01 12:38:00,False,North Gate
+55,"Brown, Daniel",76.0,female,1,128.74,74204,bumper cars,2024-10-01 21:02:00,True,East Gate
+56,"Moore, Chris",40.0,female,3,26.34,359025,rollercoaster,2024-10-01 10:45:00,True,Main Entrance
+57,"Davis, John",22.0,male,1,89.93,7236,nan,2024-10-01 12:54:00,True,North Gate
+58,"Brown, Sally",32.0,male,2,42.04,BGCJNA,carousel,2024-10-01 20:19:00,False,East Gate
+59,"Miller, Sally",43.0,female,3,11.33,597153,nan,2024-10-01 18:29:00,True,Main Entrance
+60,"Wilson, John",37.0,female,2,50.91,81839422,carousel,2024-10-01 16:29:00,True,North Gate
+61,"Wilson, Danielle",77.0,male,1,119.35,593057,bumper cars,2024-10-01 19:26:00,True,North Gate
+62,"Miller, Jane",23.0,male,2,69.15,911037,nan,2024-10-01 13:10:00,True,North Gate
+63,"Taylor, Danielle",32.0,male,1,119.99,64812969,haunted house,2024-10-01 20:18:00,True,North Gate
+64,"Moore, Michael",6.0,female,2,76.31,WG7BZK,rollercoaster,2024-10-01 18:42:00,False,North Gate
+65,"Moore, Michelle",15.0,female,2,47.34,2J7MXJ,nan,2024-10-01 15:12:00,True,Main Entrance
+66,"Jones, Chris",67.0,male,2,48.75,3GQIGA,carousel,2024-10-01 12:20:00,True,North Gate
+67,"Williams, Michelle",,female,1,44.38,43195721,carousel,2024-10-01 13:34:00,True,East Gate
+68,"Brown, Michael",42.0,male,3,35.97,NQ2GDL,bumper cars,2024-10-01 20:18:00,True,East Gate
+69,"Davis, Michael",50.0,female,1,109.35,736720,haunted house,2024-10-01 20:10:00,False,Main Entrance
+70,"Brown, Daniel",34.0,female,2,52.78,UCP29D,water slide,2024-10-01 14:36:00,True,North Gate
+71,"Miller, Sally",30.0,female,2,40.92,8848,haunted house,2024-10-01 17:48:00,True,Main Entrance
+72,"Johnson, Michael",29.0,female,2,73.52,DF5RRN,nan,2024-10-01 19:59:00,True,East Gate
+73,"Smith, Christina",54.0,male,1,87.16,694192,haunted house,2024-10-01 12:53:00,True,Main Entrance
+74,"Moore, Sam",,female,2,74.92,A8Q39S,carousel,2024-10-01 11:19:00,True,North Gate
+75,"Taylor, Michael",12.0,female,1,49.08,0POJHF,bumper cars,2024-10-01 18:59:00,True,Main Entrance
+76,"Moore, Sam",16.0,male,1,149.61,64411664,carousel,2024-10-01 20:09:00,True,North Gate
+77,"Williams, John",34.0,male,2,87.29,904265,carousel,2024-10-01 17:22:00,False,Main Entrance
+78,"Smith, Chris",52.0,female,2,50.77,75457,haunted house,2024-10-01 21:59:00,False,North Gate
+79,"Jones, Michelle",12.0,male,1,55.45,87227455,bumper cars,2024-10-01 15:20:00,True,East Gate
+80,"Wilson, John",48.0,female,2,51.01,258133,bumper cars,2024-10-01 17:37:00,True,Main Entrance
+81,"Moore, John",,female,1,142.63,60860289,haunted house,2024-10-01 09:41:00,False,North Gate
+82,"Williams, Christina",29.0,male,1,82.67,30142,haunted house,2024-10-01 11:22:00,False,Main Entrance
+83,"Jones, John",29.0,male,2,41.23,05789048,haunted house,2024-10-01 09:32:00,False,Main Entrance
+84,"Taylor, Sam",62.0,male,2,88.65,5385,water slide,2024-10-01 21:52:00,True,East Gate
+85,"Taylor, Daniel",56.0,female,2,52.31,230500,bumper cars,2024-10-01 10:06:00,True,East Gate
+86,"Taylor, Daniel",26.0,female,2,81.52,59762,nan,2024-10-01 15:28:00,True,Main Entrance
+87,"Wilson, Sally",64.0,male,1,119.1,9245,rollercoaster,2024-10-01 17:33:00,True,East Gate
+88,"Jones, Sam",39.0,female,1,142.85,4968,water slide,2024-10-01 20:56:00,True,North Gate
+89,"Wilson, John",7.0,male,2,54.78,4468,carousel,2024-10-01 09:28:00,True,North Gate
+90,"Davis, Chris",34.0,female,1,138.35,288558,bumper cars,2024-10-01 17:22:00,True,East Gate
+91,"Jones, Sally",69.0,male,2,27.91,8232,water slide,2024-10-01 19:05:00,False,Main Entrance
+92,"Wilson, Danielle",6.0,male,2,42.76,13746985,carousel,2024-10-01 11:03:00,True,North Gate
+93,"Brown, Michelle",32.0,female,1,30.73,208952,haunted house,2024-10-01 17:58:00,False,Main Entrance
+94,"Williams, Christina",13.0,female,1,95.4,5813,rollercoaster,2024-10-01 14:03:00,True,North Gate
+95,"Taylor, Sally",18.0,female,1,35.11,LJCGH5,water slide,2024-10-01 11:54:00,True,Main Entrance
+96,"Johnson, Sam",37.0,male,2,40.83,3110,haunted house,2024-10-01 19:31:00,True,East Gate
+97,"Davis, Michelle",18.0,female,3,20.64,57573,carousel,2024-10-01 18:58:00,True,North Gate
+98,"Johnson, Michelle",75.0,female,2,56.18,8QEN18,haunted house,2024-10-01 18:58:00,True,North Gate
+99,"Smith, Michael",32.0,male,2,91.46,07587,carousel,2024-10-01 15:41:00,True,East Gate
+100,"Brown, Sally",36.0,female,2,36.45,66227,haunted house,2024-10-01 15:58:00,True,Main Entrance
+101,"Miller, Danielle",20.0,male,2,96.96,23457314,bumper cars,2024-10-01 12:25:00,True,East Gate
+102,"Brown, Christina",61.0,male,2,51.15,481685,haunted house,2024-10-01 09:45:00,True,Main Entrance
+103,"Smith, Jane",7.0,male,2,48.89,1242,nan,2024-10-01 17:23:00,False,East Gate
+104,"Johnson, John",39.0,female,3,39.06,6040,carousel,2024-10-01 21:54:00,True,East Gate
+105,"Taylor, Sam",31.0,male,1,100.34,43037947,water slide,2024-10-01 15:35:00,True,Main Entrance
+106,"Miller, Sam",13.0,male,2,85.87,43344,bumper cars,2024-10-01 20:06:00,True,East Gate
+107,"Miller, Michelle",22.0,male,2,60.84,96H4YP,rollercoaster,2024-10-01 10:56:00,False,East Gate
+108,"Brown, Daniel",56.0,female,2,52.68,7593,haunted house,2024-10-01 11:53:00,True,East Gate
+109,"Jones, Chris",30.0,female,3,41.1,831504,bumper cars,2024-10-01 20:36:00,False,North Gate
+110,"Taylor, Sally",15.0,female,1,140.4,15665,rollercoaster,2024-10-01 09:12:00,False,Main Entrance
+111,"Davis, Danielle",68.0,female,2,59.94,0735,carousel,2024-10-01 19:06:00,True,North Gate
+112,"Miller, Daniel",62.0,female,3,25.29,5790,,2024-10-01 17:47:00,True,North Gate
+113,"Johnson, Danielle",,female,3,49.85,OR1JUT,bumper cars,2024-10-01 18:01:00,True,Main Entrance
+114,"Williams, Michelle",64.0,male,2,83.6,4641,nan,2024-10-01 16:04:00,True,North Gate
+115,"Moore, Sally",11.0,male,2,76.42,1IJEVS,nan,2024-10-01 18:23:00,True,Main Entrance
+116,"Johnson, Jane",,female,1,95.02,5954,carousel,2024-10-01 13:52:00,True,Main Entrance
+117,"Wilson, Sally",,male,2,81.08,444397,rollercoaster,2024-10-01 12:35:00,True,East Gate
+118,"Miller, Michelle",21.0,male,2,73.61,80975227,nan,2024-10-01 13:54:00,True,Main Entrance
+119,"Davis, Sally",,male,2,77.1,62191990,rollercoaster,2024-10-01 19:34:00,True,North Gate
+120,"Miller, John",38.0,female,2,71.81,08747564,carousel,2024-10-01 20:22:00,True,Main Entrance
+121,"Smith, Sam",65.0,female,3,38.99,6944,water slide,2024-10-01 09:34:00,True,East Gate
+122,"Wilson, Michael",19.0,male,1,92.23,82838866,bumper cars,2024-10-01 20:25:00,False,East Gate
+123,"Davis, Michael",28.0,female,2,20.96,0600,bumper cars,2024-10-01 21:34:00,True,East Gate
+124,"Williams, Michael",5.0,male,1,125.69,49321938,rollercoaster,2024-10-01 21:39:00,True,North Gate
+125,"Moore, Christina",39.0,male,2,22.49,74866965,haunted house,2024-10-01 11:27:00,True,East Gate
+126,"Moore, Sam",24.0,male,2,95.05,8727,bumper cars,2024-10-01 16:15:00,True,North Gate
+127,"Johnson, Christina",10.0,female,3,19.85,8863,bumper cars,2024-10-01 17:29:00,True,East Gate
+128,"Smith, John",51.0,female,1,132.92,1JK6QG,water slide,2024-10-01 21:24:00,True,East Gate
+129,"Jones, Michael",53.0,female,1,98.88,67023393,carousel,2024-10-01 19:23:00,True,East Gate
+130,"Johnson, Chris",78.0,male,2,44.09,7198,haunted house,2024-10-01 20:47:00,True,East Gate
+131,"Taylor, John",42.0,male,3,48.71,8671,bumper cars,2024-10-01 19:17:00,False,East Gate
+132,"Smith, Michael",47.0,female,2,47.42,17700999,,2024-10-01 15:24:00,False,Main Entrance
+133,"Miller, Sam",58.0,male,3,10.12,36VJRZ,water slide,2024-10-01 18:44:00,True,East Gate
+134,"Moore, Sam",44.0,female,1,73.4,634353,nan,2024-10-01 17:23:00,True,East Gate
+135,"Miller, Daniel",72.0,male,1,93.9,694488,carousel,2024-10-01 13:21:00,False,East Gate
+136,"Johnson, Chris",,male,2,83.35,14I0Q6,,2024-10-01 09:25:00,False,Main Entrance
+137,"Miller, Michael",64.0,female,2,71.03,8827,bumper cars,2024-10-01 10:38:00,True,Main Entrance
+138,"Johnson, Daniel",67.0,female,3,45.48,56032,water slide,2024-10-01 12:22:00,True,East Gate
+139,"Smith, Michelle",45.0,female,2,54.16,UTJXGN,nan,2024-10-01 09:14:00,True,Main Entrance
+140,"Miller, Sally",48.0,male,3,18.51,34849793,bumper cars,2024-10-01 17:07:00,True,East Gate
+141,"Jones, Danielle",,male,2,72.21,3GLAVW,nan,2024-10-01 10:03:00,True,East Gate
+142,"Wilson, Danielle",37.0,male,2,54.9,47034,water slide,2024-10-01 16:49:00,False,Main Entrance
+143,"Miller, Sally",34.0,female,1,124.4,SDEJX9,water slide,2024-10-01 10:08:00,False,East Gate
+144,"Wilson, John",34.0,male,1,54.18,MRR059,bumper cars,2024-10-01 21:39:00,True,East Gate
+145,"Smith, John",27.0,female,1,39.98,873281,carousel,2024-10-01 09:37:00,False,North Gate
+146,"Taylor, Chris",,female,2,95.33,59591695,bumper cars,2024-10-01 21:51:00,True,Main Entrance
+147,"Jones, Christina",,female,2,92.7,47503,bumper cars,2024-10-01 21:07:00,False,East Gate
+148,"Miller, Chris",47.0,male,1,35.37,243867,bumper cars,2024-10-01 10:35:00,True,East Gate
+149,"Moore, Chris",42.0,male,2,24.03,R73381,haunted house,2024-10-01 17:58:00,True,East Gate
+150,"Miller, Michael",53.0,female,2,87.62,208408,haunted house,2024-10-01 11:33:00,True,East Gate
+151,"Jones, Jane",69.0,female,2,82.52,498824,water slide,2024-10-01 15:48:00,True,Main Entrance
+152,"Johnson, Sam",78.0,male,2,28.6,50700157,carousel,2024-10-01 16:50:00,True,East Gate
+153,"Wilson, Sally",71.0,female,3,27.99,4FG3OQ,rollercoaster,2024-10-01 12:55:00,True,East Gate
+154,"Johnson, Jane",60.0,female,1,51.13,KUSCZC,bumper cars,2024-10-01 12:12:00,False,East Gate
+155,"Smith, Christina",,female,2,39.45,502774,,2024-10-01 09:30:00,False,East Gate
+156,"Brown, Danielle",15.0,female,2,93.46,33888096,nan,2024-10-01 10:56:00,True,North Gate
+157,"Williams, Jane",,female,3,17.66,94521,bumper cars,2024-10-01 20:22:00,True,North Gate
+158,"Wilson, Danielle",37.0,male,3,15.24,30108577,nan,2024-10-01 20:01:00,False,North Gate
+159,"Taylor, Chris",12.0,female,1,105.1,6998,haunted house,2024-10-01 16:40:00,False,North Gate
+160,"Davis, Sam",49.0,male,2,29.65,G1KMP4,carousel,2024-10-01 12:25:00,True,East Gate
+161,"Davis, Sally",30.0,female,2,32.7,KS3HG6,rollercoaster,2024-10-01 15:47:00,True,North Gate
+162,"Smith, Michelle",42.0,female,1,53.94,8487,haunted house,2024-10-01 17:53:00,True,East Gate
+163,"Brown, Daniel",58.0,female,1,56.22,6QSLPY,water slide,2024-10-01 09:58:00,False,North Gate
+164,"Miller, Michael",34.0,female,3,32.04,IOSHJC,carousel,2024-10-01 12:59:00,False,Main Entrance
+165,"Williams, Jane",14.0,male,2,57.97,287329,carousel,2024-10-01 11:36:00,True,East Gate
+166,"Johnson, Michael",78.0,male,1,121.43,53912,carousel,2024-10-01 13:14:00,True,North Gate
+167,"Moore, Jane",,female,2,73.5,35532900,water slide,2024-10-01 18:21:00,False,North Gate
+168,"Jones, John",13.0,female,2,57.81,969228,nan,2024-10-01 17:09:00,True,Main Entrance
+169,"Taylor, Chris",53.0,female,1,58.6,0000,water slide,2024-10-01 19:41:00,True,East Gate
+170,"Brown, Chris",53.0,male,1,94.45,59524212,carousel,2024-10-01 10:39:00,True,North Gate
+171,"Jones, Christina",17.0,male,2,91.93,35244031,water slide,2024-10-01 19:41:00,True,Main Entrance
+172,"Johnson, Danielle",17.0,male,3,46.04,21078,carousel,2024-10-01 10:58:00,False,East Gate
+173,"Davis, Danielle",8.0,female,1,39.51,946775,carousel,2024-10-01 15:26:00,True,East Gate
+174,"Moore, Michelle",19.0,male,2,55.55,1348,haunted house,2024-10-01 09:22:00,False,North Gate
+175,"Miller, John",22.0,female,2,36.22,666673,bumper cars,2024-10-01 17:06:00,True,East Gate
+176,"Taylor, Daniel",,female,2,21.65,55381450,carousel,2024-10-01 21:31:00,True,East Gate
+177,"Smith, Danielle",11.0,female,2,38.24,65455,carousel,2024-10-01 20:36:00,True,East Gate
+178,"Taylor, Danielle",79.0,male,2,69.58,72190542,rollercoaster,2024-10-01 16:12:00,True,Main Entrance
+179,"Brown, Sally",70.0,female,3,49.67,210015,carousel,2024-10-01 19:23:00,True,North Gate
+180,"Johnson, Sam",,female,2,85.32,4708,,2024-10-01 17:11:00,False,North Gate
+181,"Wilson, Sam",35.0,female,2,95.97,329300,nan,2024-10-01 20:52:00,False,North Gate
+182,"Jones, Jane",48.0,female,3,27.44,30769,carousel,2024-10-01 20:14:00,True,East Gate
+183,"Brown, Daniel",22.0,male,1,142.42,8148,haunted house,2024-10-01 13:55:00,False,Main Entrance
+184,"Wilson, Sam",15.0,male,1,146.4,9FA7YK,rollercoaster,2024-10-01 18:13:00,True,Main Entrance
+185,"Williams, Michael",,female,3,26.32,639520,bumper cars,2024-10-01 20:15:00,True,East Gate
+186,"Williams, John",46.0,male,3,35.06,80016,rollercoaster,2024-10-01 20:56:00,True,North Gate
+187,"Jones, Daniel",53.0,male,2,50.99,44308,haunted house,2024-10-01 13:20:00,True,North Gate
+188,"Taylor, Sally",,male,2,61.01,0U347R,,2024-10-01 17:37:00,True,North Gate
+189,"Moore, Sally",50.0,female,3,47.52,0OKURN,carousel,2024-10-01 12:47:00,True,East Gate
+190,"Taylor, Sam",,female,2,61.97,518212,nan,2024-10-01 18:34:00,True,Main Entrance
+191,"Miller, John",71.0,female,2,96.06,489949,nan,2024-10-01 17:38:00,True,Main Entrance
+192,"Williams, Sally",42.0,female,1,48.03,11800248,rollercoaster,2024-10-01 13:53:00,False,Main Entrance
+193,"Williams, John",55.0,male,2,38.98,372548,rollercoaster,2024-10-01 09:48:00,True,East Gate
+194,"Brown, Christina",34.0,female,3,43.61,9268,rollercoaster,2024-10-01 15:18:00,False,North Gate
+195,"Miller, John",13.0,female,1,44.29,1931,carousel,2024-10-01 18:48:00,False,Main Entrance
+196,"Miller, Michael",40.0,male,1,40.25,A9Z1WB,water slide,2024-10-01 20:08:00,True,East Gate
+197,"Smith, Christina",77.0,male,2,52.51,9144,bumper cars,2024-10-01 20:19:00,True,North Gate
+198,"Brown, Jane",45.0,female,3,49.13,SEOHKI,bumper cars,2024-10-01 21:44:00,True,Main Entrance
+199,"Brown, Jane",41.0,female,2,74.94,44976027,haunted house,2024-10-01 18:34:00,True,East Gate
+200,"Smith, Michael",33.0,female,2,46.1,IQ4GJG,carousel,2024-10-01 16:43:00,True,East Gate
+201,"Miller, Chris",52.0,male,2,89.1,89408319,haunted house,2024-10-01 13:38:00,True,Main Entrance
+202,"Miller, Sam",13.0,female,2,20.69,795134,bumper cars,2024-10-01 11:41:00,False,Main Entrance
+203,"Miller, Chris",62.0,female,2,61.09,KQWI5F,carousel,2024-10-01 11:30:00,True,Main Entrance
+204,"Johnson, Jane",56.0,male,2,74.73,69148858,bumper cars,2024-10-01 16:00:00,True,East Gate
+205,"Smith, Jane",,female,3,42.58,2499,bumper cars,2024-10-01 10:53:00,True,East Gate
+206,"Davis, Michelle",25.0,male,1,61.8,5700,nan,2024-10-01 13:44:00,True,North Gate
+207,"Brown, Christina",43.0,female,1,113.84,79823,rollercoaster,2024-10-01 20:58:00,False,Main Entrance
+208,"Wilson, Sam",,male,1,132.33,FCBF45,,2024-10-01 19:09:00,True,Main Entrance
+209,"Taylor, Christina",,male,1,38.83,4648,carousel,2024-10-01 09:25:00,True,Main Entrance
+210,"Moore, Sam",42.0,male,3,21.04,UQ54FZ,haunted house,2024-10-01 18:31:00,True,East Gate
+211,"Johnson, Sam",50.0,male,2,26.82,4863,,2024-10-01 09:44:00,False,Main Entrance
+212,"Brown, Michelle",65.0,female,1,57.86,728875,carousel,2024-10-01 15:56:00,False,North Gate
+213,"Brown, Jane",63.0,female,2,29.81,281921,nan,2024-10-01 09:38:00,True,East Gate
+214,"Johnson, John",,female,2,38.37,629305,rollercoaster,2024-10-01 18:01:00,True,North Gate
+215,"Jones, Daniel",55.0,male,1,102.22,78782,rollercoaster,2024-10-01 16:05:00,False,East Gate
+216,"Miller, Sam",77.0,female,2,72.33,IS85NX,haunted house,2024-10-01 18:38:00,True,East Gate
+217,"Taylor, Danielle",63.0,female,1,129.9,16836678,rollercoaster,2024-10-01 17:47:00,True,East Gate
+218,"Wilson, Michael",39.0,male,3,17.62,04855,water slide,2024-10-01 19:22:00,True,Main Entrance
+219,"Miller, Danielle",14.0,male,2,80.01,9981,,2024-10-01 16:09:00,False,East Gate
+220,"Brown, Daniel",18.0,female,2,29.17,813326,haunted house,2024-10-01 12:17:00,True,East Gate
+221,"Jones, Danielle",5.0,female,1,101.45,74181547,,2024-10-01 12:39:00,True,North Gate
+222,"Moore, Chris",39.0,female,3,49.4,5357,haunted house,2024-10-01 19:48:00,True,North Gate
+223,"Moore, Michelle",64.0,female,2,51.22,02821766,rollercoaster,2024-10-01 17:42:00,True,Main Entrance
+224,"Brown, Chris",8.0,male,2,28.34,21734236,carousel,2024-10-01 21:32:00,True,East Gate
+225,"Taylor, Christina",56.0,female,1,130.77,6UUKQ0,water slide,2024-10-01 10:50:00,True,East Gate
+226,"Wilson, Sally",7.0,male,1,40.72,6LC23Q,bumper cars,2024-10-01 10:39:00,False,East Gate
+227,"Taylor, Danielle",71.0,female,2,80.27,67644509,carousel,2024-10-01 17:16:00,True,East Gate
+228,"Johnson, John",42.0,female,3,25.68,89305510,carousel,2024-10-01 20:39:00,True,Main Entrance
+229,"Smith, John",59.0,male,3,25.88,234210,bumper cars,2024-10-01 17:00:00,True,East Gate
+230,"Johnson, Chris",22.0,female,1,107.66,178862,carousel,2024-10-01 09:59:00,True,Main Entrance
+231,"Wilson, Daniel",78.0,male,2,27.01,1205,bumper cars,2024-10-01 15:26:00,True,Main Entrance
+232,"Moore, Christina",,female,1,59.17,81375570,haunted house,2024-10-01 09:06:00,False,North Gate
+233,"Davis, Sally",10.0,male,2,60.25,80459,nan,2024-10-01 11:36:00,True,North Gate
+234,"Johnson, Michael",46.0,male,2,89.52,FUXE3D,,2024-10-01 18:33:00,False,East Gate
+235,"Brown, John",55.0,male,2,79.59,799614,rollercoaster,2024-10-01 19:28:00,True,Main Entrance
+236,"Davis, Chris",22.0,male,3,26.21,GRU0YW,haunted house,2024-10-01 18:24:00,True,Main Entrance
+237,"Johnson, Jane",16.0,male,2,51.95,1818,carousel,2024-10-01 18:38:00,False,Main Entrance
+238,"Jones, Jane",,male,1,35.11,792542,rollercoaster,2024-10-01 12:57:00,True,East Gate
+239,"Johnson, Michael",32.0,male,2,41.43,37016984,carousel,2024-10-01 16:22:00,True,North Gate
+240,"Williams, Jane",39.0,male,1,140.46,8GT86L,haunted house,2024-10-01 12:53:00,True,Main Entrance
+241,"Brown, Michelle",38.0,female,3,15.78,35HRLT,bumper cars,2024-10-01 10:55:00,True,North Gate
+242,"Taylor, Danielle",75.0,male,2,23.84,5N8GAC,nan,2024-10-01 17:41:00,True,East Gate
+243,"Williams, Sally",47.0,male,3,33.15,4FOYRQ,,2024-10-01 17:15:00,True,East Gate
+244,"Miller, Daniel",32.0,female,2,75.44,35702250,bumper cars,2024-10-01 15:05:00,True,North Gate
+245,"Wilson, Michelle",44.0,male,2,59.1,973342,water slide,2024-10-01 11:18:00,True,Main Entrance
+246,"Smith, Michelle",35.0,female,1,100.04,90683,nan,2024-10-01 13:17:00,False,East Gate
+247,"Smith, Michelle",,male,3,46.06,1629,water slide,2024-10-01 10:21:00,False,Main Entrance
+248,"Wilson, Jane",51.0,male,3,39.55,81443,rollercoaster,2024-10-01 16:55:00,True,East Gate
+249,"Smith, Christina",,female,2,82.35,73561,rollercoaster,2024-10-01 11:33:00,False,Main Entrance
+250,"Johnson, Michael",46.0,female,1,147.89,60457174,carousel,2024-10-01 14:39:00,True,East Gate
+251,"Davis, Sam",79.0,male,2,92.11,7Y65GW,carousel,2024-10-01 14:41:00,True,Main Entrance
+252,"Miller, Christina",,female,2,20.33,0895,bumper cars,2024-10-01 15:47:00,False,Main Entrance
+253,"Miller, John",42.0,female,2,21.35,17329944,bumper cars,2024-10-01 17:38:00,False,East Gate
+254,"Miller, Christina",56.0,female,2,70.31,91794630,bumper cars,2024-10-01 20:05:00,True,Main Entrance
+255,"Brown, Michael",59.0,male,3,26.38,A35X6X,haunted house,2024-10-01 16:25:00,True,East Gate
+256,"Wilson, Michael",16.0,female,2,23.68,2266,,2024-10-01 19:24:00,False,North Gate
+257,"Taylor, Jane",60.0,female,1,57.14,9349,rollercoaster,2024-10-01 20:55:00,True,North Gate
+258,"Jones, Michael",,female,3,29.17,WHKL0O,rollercoaster,2024-10-01 18:26:00,True,North Gate
+259,"Davis, Daniel",28.0,female,2,59.62,BWTQC6,haunted house,2024-10-01 12:37:00,True,North Gate
+260,"Moore, Danielle",17.0,female,1,129.37,356142,rollercoaster,2024-10-01 15:08:00,True,Main Entrance
+261,"Jones, Chris",43.0,female,3,21.89,97ZXFJ,carousel,2024-10-01 19:25:00,True,North Gate
+262,"Moore, Michael",40.0,female,3,26.72,635813,rollercoaster,2024-10-01 13:21:00,False,Main Entrance
+263,"Jones, Chris",38.0,male,2,54.02,46305,haunted house,2024-10-01 10:29:00,True,Main Entrance
+264,"Williams, Daniel",,male,1,108.21,52554293,rollercoaster,2024-10-01 11:09:00,True,Main Entrance
+265,"Smith, Sam",,male,2,75.08,36514134,haunted house,2024-10-01 17:10:00,True,North Gate
+266,"Moore, Sally",11.0,male,3,49.42,75356,water slide,2024-10-01 19:08:00,True,East Gate
+267,"Brown, Michelle",60.0,female,1,118.96,GXBP2E,rollercoaster,2024-10-01 18:08:00,True,Main Entrance
+268,"Miller, Christina",47.0,female,2,47.93,35756,haunted house,2024-10-01 18:59:00,True,North Gate
+269,"Moore, Danielle",20.0,female,3,25.63,6937,rollercoaster,2024-10-01 13:03:00,True,Main Entrance
+270,"Wilson, Danielle",46.0,male,1,65.84,50835758,carousel,2024-10-01 20:37:00,False,East Gate
+271,"Taylor, Danielle",,male,2,34.9,24186644,rollercoaster,2024-10-01 19:20:00,True,North Gate
+272,"Moore, Sam",19.0,female,2,35.91,8161,bumper cars,2024-10-01 18:49:00,True,East Gate
+273,"Smith, Sam",,female,1,80.19,8887,haunted house,2024-10-01 14:12:00,True,East Gate
+274,"Johnson, Jane",6.0,female,1,116.74,478310,haunted house,2024-10-01 14:49:00,True,North Gate
+275,"Smith, Sam",46.0,female,1,96.61,5616,rollercoaster,2024-10-01 11:09:00,False,Main Entrance
+276,"Davis, Sally",59.0,female,2,30.99,98696,carousel,2024-10-01 18:01:00,True,Main Entrance
+277,"Brown, Michael",19.0,male,1,76.35,216747,carousel,2024-10-01 21:36:00,True,North Gate
+278,"Wilson, Daniel",,male,1,39.92,492985,nan,2024-10-01 16:34:00,False,East Gate
+279,"Jones, Jane",,male,3,44.61,87779584,bumper cars,2024-10-01 20:18:00,False,North Gate
+280,"Miller, Jane",51.0,female,3,48.64,6K6KJT,nan,2024-10-01 18:57:00,True,Main Entrance
+281,"Taylor, Daniel",54.0,female,2,40.01,4682,haunted house,2024-10-01 15:59:00,True,East Gate
+282,"Brown, Danielle",50.0,male,3,14.45,2064,haunted house,2024-10-01 20:13:00,True,East Gate
+283,"Taylor, Michelle",,female,1,121.63,988774,nan,2024-10-01 20:31:00,False,Main Entrance
+284,"Williams, John",7.0,male,2,25.71,EZ6OZO,water slide,2024-10-01 10:10:00,True,East Gate
+285,"Jones, Jane",32.0,female,2,49.78,BQ4P2E,haunted house,2024-10-01 17:53:00,True,North Gate
+286,"Williams, Sally",13.0,male,1,70.95,7679,bumper cars,2024-10-01 19:55:00,True,East Gate
+287,"Brown, Daniel",26.0,female,3,28.44,200753,nan,2024-10-01 16:31:00,True,North Gate
+288,"Wilson, Michelle",21.0,male,2,78.83,37889,bumper cars,2024-10-01 10:46:00,False,Main Entrance
+289,"Williams, Danielle",75.0,male,1,99.18,914884,rollercoaster,2024-10-01 14:38:00,True,North Gate
+290,"Miller, Michelle",21.0,female,2,48.86,723564,carousel,2024-10-01 17:44:00,True,North Gate
+291,"Johnson, Danielle",5.0,male,2,42.56,9566,haunted house,2024-10-01 14:04:00,True,North Gate
+292,"Williams, Michelle",27.0,male,3,42.8,23490,haunted house,2024-10-01 18:08:00,True,Main Entrance
+293,"Brown, Sally",44.0,male,1,53.83,337870,bumper cars,2024-10-01 16:00:00,False,East Gate
+294,"Taylor, Michelle",37.0,male,1,86.18,918193,nan,2024-10-01 14:13:00,True,East Gate
+295,"Wilson, Daniel",27.0,male,1,108.93,75332,nan,2024-10-01 20:50:00,True,Main Entrance
+296,"Davis, Christina",53.0,female,3,48.68,1194,haunted house,2024-10-01 13:51:00,False,North Gate
+297,"Johnson, Michelle",75.0,male,2,34.71,511267,haunted house,2024-10-01 15:41:00,True,Main Entrance
+298,"Taylor, Sam",10.0,female,1,37.21,926341,carousel,2024-10-01 10:59:00,True,North Gate
+299,"Williams, Jane",56.0,female,1,43.63,20143,bumper cars,2024-10-01 17:49:00,False,North Gate
+300,"Williams, Jane",25.0,male,3,35.69,YU4N7J,carousel,2024-10-01 13:16:00,True,Main Entrance
+301,"Brown, John",,male,2,84.66,81622,bumper cars,2024-10-01 15:53:00,False,East Gate
+302,"Jones, Sam",35.0,female,1,68.36,61264,,2024-10-01 21:54:00,True,North Gate
+303,"Smith, Daniel",63.0,female,2,77.06,015603,haunted house,2024-10-01 13:59:00,True,North Gate
+304,"Moore, Michelle",62.0,male,2,96.75,54240816,nan,2024-10-01 20:53:00,True,North Gate
+305,"Moore, Chris",,female,2,99.16,80837782,haunted house,2024-10-01 17:34:00,True,North Gate
+306,"Smith, Michelle",48.0,male,1,48.27,V0MU7L,haunted house,2024-10-01 21:05:00,False,East Gate
+307,"Miller, Chris",13.0,female,2,53.32,007103,water slide,2024-10-01 13:59:00,True,East Gate
+308,"Moore, Michael",28.0,male,3,48.11,06594786,nan,2024-10-01 17:06:00,False,East Gate
+309,"Miller, Daniel",,female,1,119.32,36476139,nan,2024-10-01 15:30:00,True,Main Entrance
+310,"Johnson, Daniel",11.0,female,3,16.58,676948,haunted house,2024-10-01 18:28:00,True,East Gate
+311,"Wilson, Michael",62.0,male,1,74.62,59763,bumper cars,2024-10-01 12:56:00,True,Main Entrance
+312,"Brown, John",10.0,male,2,65.54,20052,carousel,2024-10-01 12:50:00,True,East Gate
+313,"Moore, John",37.0,male,2,52.04,B6NPDZ,rollercoaster,2024-10-01 16:03:00,False,Main Entrance
+314,"Wilson, Jane",66.0,male,3,43.58,0920,nan,2024-10-01 18:22:00,True,East Gate
+315,"Taylor, Chris",46.0,male,2,26.48,2103,water slide,2024-10-01 18:08:00,True,East Gate
+316,"Moore, Daniel",21.0,female,2,55.24,318039,carousel,2024-10-01 20:56:00,False,East Gate
+317,"Williams, Michelle",6.0,female,3,29.5,90200483,nan,2024-10-01 11:20:00,True,North Gate
+318,"Moore, Danielle",60.0,female,2,62.39,69727969,haunted house,2024-10-01 19:11:00,True,East Gate
+319,"Williams, John",45.0,male,3,16.81,7080,water slide,2024-10-01 16:42:00,True,Main Entrance
+320,"Jones, Michael",43.0,female,3,38.95,8081,haunted house,2024-10-01 15:12:00,True,North Gate
+321,"Smith, Sam",24.0,female,2,94.37,3979,rollercoaster,2024-10-01 21:04:00,True,Main Entrance
+322,"Taylor, Chris",24.0,male,1,97.92,0067,haunted house,2024-10-01 11:34:00,False,Main Entrance
+323,"Jones, Christina",,male,1,129.98,H9EK6T,water slide,2024-10-01 17:46:00,True,East Gate
+324,"Johnson, Sally",19.0,female,1,54.45,777419,bumper cars,2024-10-01 13:03:00,False,Main Entrance
+325,"Miller, Sally",50.0,female,1,112.25,7POZPX,water slide,2024-10-01 15:17:00,True,Main Entrance
+326,"Johnson, Chris",71.0,female,3,17.02,CZ64N0,rollercoaster,2024-10-01 10:33:00,True,North Gate
+327,"Smith, Sally",49.0,female,2,92.08,79429,haunted house,2024-10-01 11:59:00,True,Main Entrance
+328,"Taylor, Sally",72.0,female,1,142.84,T7MRUM,haunted house,2024-10-01 21:28:00,False,East Gate
+329,"Wilson, Daniel",77.0,female,1,144.71,003284,carousel,2024-10-01 20:35:00,True,Main Entrance
+330,"Johnson, Danielle",,male,2,85.26,93889,water slide,2024-10-01 18:14:00,True,East Gate
+331,"Davis, Michelle",29.0,female,2,61.53,S90ATC,rollercoaster,2024-10-01 19:04:00,False,North Gate
+332,"Davis, Michelle",78.0,female,3,36.61,929105,rollercoaster,2024-10-01 18:02:00,False,North Gate
+333,"Taylor, Jane",51.0,male,2,66.39,45331116,rollercoaster,2024-10-01 15:13:00,True,North Gate
+334,"Miller, Chris",7.0,female,2,72.7,02870,rollercoaster,2024-10-01 17:30:00,True,North Gate
+335,"Brown, Danielle",57.0,male,1,96.28,8DAP2H,bumper cars,2024-10-01 12:53:00,True,North Gate
+336,"Brown, Sam",61.0,male,2,87.35,5442,bumper cars,2024-10-01 12:25:00,True,East Gate
+337,"Wilson, Chris",39.0,male,2,68.0,3023,haunted house,2024-10-01 15:27:00,True,North Gate
+338,"Miller, John",,male,1,58.59,72635526,rollercoaster,2024-10-01 15:06:00,True,East Gate
+339,"Brown, Jane",70.0,male,2,47.93,46917813,carousel,2024-10-01 20:31:00,True,North Gate
+340,"Wilson, Danielle",63.0,female,2,33.92,0810,bumper cars,2024-10-01 15:36:00,True,Main Entrance
+341,"Moore, Chris",59.0,female,1,109.37,394452,water slide,2024-10-01 11:47:00,True,North Gate
+342,"Jones, Sam",,female,1,133.07,13254,rollercoaster,2024-10-01 10:53:00,True,North Gate
+343,"Smith, Michelle",16.0,male,2,92.17,99442530,,2024-10-01 14:31:00,True,East Gate
+344,"Moore, Chris",31.0,female,3,36.86,66143191,bumper cars,2024-10-01 09:38:00,True,Main Entrance
+345,"Brown, Danielle",70.0,male,2,88.53,421979,rollercoaster,2024-10-01 10:09:00,True,East Gate
+346,"Wilson, Christina",28.0,female,2,23.4,605133,nan,2024-10-01 10:33:00,True,East Gate
+347,"Johnson, Jane",71.0,male,2,73.55,7830,bumper cars,2024-10-01 13:43:00,True,East Gate
+348,"Miller, Christina",75.0,male,1,116.9,187337,water slide,2024-10-01 17:47:00,True,Main Entrance
+349,"Jones, Sam",63.0,female,1,101.99,2399,water slide,2024-10-01 18:04:00,True,Main Entrance
+350,"Moore, John",74.0,female,1,73.94,7018,water slide,2024-10-01 21:26:00,False,North Gate
+351,"Moore, Jane",,female,2,56.63,17325545,carousel,2024-10-01 13:20:00,True,North Gate
+352,"Moore, Michelle",79.0,female,1,47.26,68257903,rollercoaster,2024-10-01 14:26:00,True,East Gate
+353,"Davis, Sally",36.0,female,2,87.23,8369,haunted house,2024-10-01 15:32:00,False,Main Entrance
+354,"Smith, Michael",79.0,male,2,59.27,1714,rollercoaster,2024-10-01 19:04:00,False,North Gate
+355,"Wilson, Michael",44.0,female,2,74.82,3WZSN2,carousel,2024-10-01 14:54:00,False,North Gate
+356,"Brown, Sally",72.0,female,2,70.83,381076,bumper cars,2024-10-01 21:17:00,False,East Gate
+357,"Wilson, Daniel",72.0,female,3,42.42,4902,carousel,2024-10-01 16:51:00,True,East Gate
+358,"Wilson, Sam",35.0,female,1,125.03,15040882,rollercoaster,2024-10-01 20:03:00,True,Main Entrance
+359,"Johnson, Sally",54.0,female,2,69.11,8094,rollercoaster,2024-10-01 11:02:00,True,North Gate
+360,"Williams, Sam",78.0,male,1,51.63,5692,water slide,2024-10-01 12:58:00,False,North Gate
+361,"Davis, Danielle",68.0,female,3,34.0,637816,nan,2024-10-01 20:23:00,True,North Gate
+362,"Wilson, Chris",9.0,male,3,21.95,676862,nan,2024-10-01 16:03:00,True,East Gate
+363,"Williams, Sam",78.0,male,1,98.3,19745555,bumper cars,2024-10-01 16:51:00,True,Main Entrance
+364,"Williams, Christina",9.0,female,1,53.65,216920,rollercoaster,2024-10-01 12:09:00,True,East Gate
+365,"Taylor, Daniel",66.0,male,2,32.36,353855,rollercoaster,2024-10-01 19:35:00,True,East Gate
+366,"Smith, Jane",8.0,female,2,47.78,84499917,rollercoaster,2024-10-01 17:01:00,False,North Gate
+367,"Johnson, Michelle",17.0,male,2,22.43,X7L6MR,carousel,2024-10-01 21:46:00,True,North Gate
+368,"Williams, Sam",,female,2,52.51,47349760,bumper cars,2024-10-01 14:24:00,True,East Gate
+369,"Smith, John",73.0,male,2,29.61,517823,rollercoaster,2024-10-01 19:16:00,True,East Gate
+370,"Davis, Danielle",,male,2,73.19,31450392,carousel,2024-10-01 09:09:00,False,North Gate
+371,"Wilson, Jane",46.0,male,2,66.8,68532,carousel,2024-10-01 10:00:00,True,Main Entrance
+372,"Smith, Sally",37.0,female,1,125.0,6242,haunted house,2024-10-01 12:26:00,True,East Gate
+373,"Moore, Michael",57.0,male,1,52.15,11628,water slide,2024-10-01 21:59:00,True,Main Entrance
+374,"Smith, Chris",8.0,female,1,114.75,7BFYKP,haunted house,2024-10-01 19:22:00,True,East Gate
+375,"Taylor, Michael",,female,2,68.14,6N4LMU,rollercoaster,2024-10-01 17:01:00,False,North Gate
+376,"Miller, Chris",51.0,male,1,74.17,CBKBM5,bumper cars,2024-10-01 19:26:00,True,Main Entrance
+377,"Smith, John",68.0,female,1,72.48,742975,water slide,2024-10-01 13:18:00,False,Main Entrance
+378,"Johnson, Christina",61.0,female,1,65.36,66625,carousel,2024-10-01 16:15:00,True,East Gate
+379,"Davis, Sam",61.0,female,1,129.55,5W4IEX,,2024-10-01 09:57:00,False,North Gate
+380,"Williams, Sam",37.0,male,1,135.05,6364,rollercoaster,2024-10-01 09:03:00,True,East Gate
+381,"Moore, Christina",9.0,male,1,64.76,59211,carousel,2024-10-01 19:21:00,True,Main Entrance
+382,"Davis, Michelle",,female,2,60.76,211594,carousel,2024-10-01 20:20:00,True,East Gate
+383,"Taylor, Christina",65.0,male,2,92.92,001317,haunted house,2024-10-01 15:29:00,False,North Gate
+384,"Miller, Danielle",27.0,male,2,60.17,ZB854I,carousel,2024-10-01 17:55:00,True,Main Entrance
+385,"Johnson, Jane",62.0,male,2,34.96,621146,nan,2024-10-01 13:15:00,True,Main Entrance
+386,"Moore, Michelle",,male,1,68.65,5672,carousel,2024-10-01 15:00:00,True,North Gate
+387,"Smith, Christina",59.0,male,3,28.71,35228405,,2024-10-01 13:42:00,True,East Gate
+388,"Taylor, Sam",,female,2,85.07,9604,haunted house,2024-10-01 17:46:00,False,North Gate
+389,"Jones, Sam",25.0,female,3,26.02,44378214,water slide,2024-10-01 14:12:00,False,East Gate
+390,"Johnson, Christina",60.0,male,1,62.11,29275,bumper cars,2024-10-01 21:16:00,True,Main Entrance
+391,"Wilson, Michael",70.0,female,2,52.45,447424,carousel,2024-10-01 09:17:00,True,Main Entrance
+392,"Jones, Michael",62.0,female,2,26.5,9304,rollercoaster,2024-10-01 11:06:00,True,East Gate
+393,"Smith, Chris",45.0,male,1,147.0,7592,haunted house,2024-10-01 16:32:00,True,North Gate
+394,"Taylor, Michael",50.0,male,2,34.26,4928,bumper cars,2024-10-01 20:59:00,True,Main Entrance
+395,"Johnson, Daniel",31.0,male,1,69.36,28815,rollercoaster,2024-10-01 18:07:00,True,North Gate
+396,"Taylor, Chris",6.0,female,2,73.19,82306,bumper cars,2024-10-01 13:19:00,True,North Gate
+397,"Smith, Sally",27.0,male,1,83.14,986935,water slide,2024-10-01 10:14:00,True,North Gate
+398,"Jones, Chris",66.0,male,3,14.28,2085,,2024-10-01 16:59:00,True,North Gate
+399,"Wilson, Michael",21.0,female,2,50.48,83378740,rollercoaster,2024-10-01 20:03:00,True,East Gate
+400,"Williams, John",58.0,female,2,45.17,6889,rollercoaster,2024-10-01 19:06:00,False,North Gate
+401,"Johnson, Michelle",15.0,male,2,81.74,04703136,bumper cars,2024-10-01 14:19:00,False,Main Entrance
+402,"Williams, Michael",7.0,female,1,108.83,33785,bumper cars,2024-10-01 12:21:00,False,North Gate
+403,"Williams, Sally",35.0,female,3,33.52,48551060,carousel,2024-10-01 15:32:00,False,East Gate
+404,"Johnson, Michael",,male,2,35.48,33202874,bumper cars,2024-10-01 15:43:00,False,East Gate
+405,"Johnson, Michelle",11.0,female,3,38.88,5062,carousel,2024-10-01 19:00:00,True,East Gate
+406,"Wilson, Sam",,female,2,48.43,89948,rollercoaster,2024-10-01 14:54:00,True,North Gate
+407,"Jones, Sally",48.0,male,2,37.49,38411804,bumper cars,2024-10-01 11:50:00,True,East Gate
+408,"Miller, Sally",37.0,female,2,77.07,O3TAZR,rollercoaster,2024-10-01 16:31:00,True,East Gate
+409,"Davis, Danielle",49.0,male,3,20.47,9338,water slide,2024-10-01 09:43:00,True,North Gate
+410,"Wilson, John",,male,2,39.62,D6KRBL,carousel,2024-10-01 16:26:00,True,North Gate
+411,"Moore, John",24.0,male,2,87.57,03821,rollercoaster,2024-10-01 17:18:00,True,Main Entrance
+412,"Williams, Jane",19.0,female,1,75.24,84235098,rollercoaster,2024-10-01 15:35:00,True,North Gate
+413,"Moore, Christina",30.0,male,1,46.14,HPGTIZ,haunted house,2024-10-01 21:35:00,True,East Gate
+414,"Davis, Chris",60.0,male,2,45.89,9131,haunted house,2024-10-01 16:09:00,True,North Gate
+415,"Williams, John",,female,2,82.44,IQAORQ,bumper cars,2024-10-01 10:35:00,False,East Gate
+416,"Taylor, Christina",37.0,male,2,40.49,901126,rollercoaster,2024-10-01 16:40:00,True,East Gate
+417,"Taylor, Michael",67.0,female,1,144.9,53868960,haunted house,2024-10-01 14:04:00,False,Main Entrance
+418,"Brown, Chris",65.0,female,2,31.94,119327,bumper cars,2024-10-01 14:25:00,True,North Gate
+419,"Smith, Christina",73.0,male,1,93.99,4999,rollercoaster,2024-10-01 09:20:00,False,Main Entrance
+420,"Williams, Sally",42.0,female,1,36.66,6305,water slide,2024-10-01 15:07:00,True,North Gate
+421,"Williams, John",,female,2,80.4,17673,water slide,2024-10-01 14:53:00,False,East Gate
+422,"Miller, John",71.0,male,1,142.21,53294293,water slide,2024-10-01 13:50:00,True,North Gate
+423,"Jones, John",47.0,male,1,82.23,101943,bumper cars,2024-10-01 17:01:00,True,North Gate
+424,"Brown, Jane",25.0,female,2,35.1,74937,carousel,2024-10-01 12:55:00,True,East Gate
+425,"Davis, John",61.0,female,2,47.16,3817,water slide,2024-10-01 20:40:00,True,East Gate
+426,"Davis, Michael",,female,1,30.52,571070,nan,2024-10-01 13:20:00,True,North Gate
+427,"Moore, Michael",18.0,male,2,85.47,1109,rollercoaster,2024-10-01 20:31:00,True,Main Entrance
+428,"Moore, Michael",34.0,female,2,31.95,1754,haunted house,2024-10-01 11:09:00,True,Main Entrance
+429,"Miller, Michelle",58.0,female,2,80.53,02106188,carousel,2024-10-01 09:28:00,False,Main Entrance
+430,"Miller, Daniel",42.0,female,1,102.14,08675,bumper cars,2024-10-01 15:38:00,True,East Gate
+431,"Smith, Sam",,male,2,93.93,19226261,nan,2024-10-01 16:18:00,False,North Gate
+432,"Miller, Michael",58.0,female,2,54.41,953350,rollercoaster,2024-10-01 12:20:00,False,North Gate
+433,"Smith, Danielle",,female,1,148.18,7885,haunted house,2024-10-01 20:54:00,False,East Gate
+434,"Miller, Chris",59.0,male,3,36.79,02174193,bumper cars,2024-10-01 19:04:00,False,Main Entrance
+435,"Smith, Danielle",23.0,male,2,73.53,81268,nan,2024-10-01 18:16:00,True,Main Entrance
+436,"Moore, Daniel",36.0,female,1,131.82,UHHUTQ,haunted house,2024-10-01 09:11:00,True,Main Entrance
+437,"Taylor, Chris",67.0,male,2,37.19,421232,,2024-10-01 20:56:00,True,Main Entrance
+438,"Johnson, Christina",52.0,male,1,91.7,80751876,rollercoaster,2024-10-01 15:22:00,True,Main Entrance
+439,"Wilson, Michael",24.0,female,1,107.52,99915964,rollercoaster,2024-10-01 19:24:00,False,North Gate
+440,"Davis, Christina",,female,2,39.21,FVJL2M,rollercoaster,2024-10-01 16:20:00,True,Main Entrance
+441,"Smith, John",41.0,female,3,29.35,76390277,bumper cars,2024-10-01 10:10:00,True,North Gate
+442,"Davis, Michelle",65.0,male,2,84.27,18866177,rollercoaster,2024-10-01 10:01:00,True,Main Entrance
+443,"Davis, Michael",44.0,female,1,144.89,62830,nan,2024-10-01 20:36:00,True,Main Entrance
+444,"Moore, Michael",6.0,female,2,45.9,761883,haunted house,2024-10-01 14:00:00,True,Main Entrance
+445,"Williams, Michelle",73.0,male,2,90.06,006822,nan,2024-10-01 20:44:00,True,North Gate
+446,"Smith, Daniel",41.0,female,1,31.01,44329157,nan,2024-10-01 14:33:00,True,North Gate
+447,"Smith, Danielle",45.0,male,1,135.55,CCOR1D,carousel,2024-10-01 18:55:00,True,East Gate
+448,"Johnson, Chris",,female,1,69.38,378845,carousel,2024-10-01 14:49:00,False,Main Entrance
+449,"Miller, Christina",24.0,female,1,127.03,20809,haunted house,2024-10-01 20:30:00,True,Main Entrance
+450,"Miller, Danielle",42.0,female,2,26.69,2EP3OE,haunted house,2024-10-01 14:20:00,True,Main Entrance
+451,"Jones, Christina",46.0,female,1,74.18,7325,rollercoaster,2024-10-01 14:36:00,True,North Gate
+452,"Taylor, Jane",64.0,male,1,118.04,8545,bumper cars,2024-10-01 19:29:00,True,Main Entrance
+453,"Brown, Michelle",33.0,male,1,30.35,05295,rollercoaster,2024-10-01 14:30:00,False,Main Entrance
+454,"Davis, John",,male,2,57.06,476524,haunted house,2024-10-01 21:49:00,False,East Gate
+455,"Moore, Chris",43.0,female,3,15.94,SWWPX4,bumper cars,2024-10-01 13:32:00,True,East Gate
+456,"Miller, Chris",38.0,female,2,85.65,140462,bumper cars,2024-10-01 13:10:00,True,North Gate
+457,"Wilson, Daniel",42.0,male,1,87.13,12432051,carousel,2024-10-01 18:03:00,True,East Gate
+458,"Smith, Jane",15.0,male,1,33.22,589423,haunted house,2024-10-01 12:49:00,False,East Gate
+459,"Wilson, Danielle",6.0,male,2,44.58,240514,carousel,2024-10-01 20:56:00,True,Main Entrance
+460,"Miller, Michael",37.0,male,3,15.46,25883,haunted house,2024-10-01 13:09:00,True,North Gate
+461,"Williams, John",56.0,male,1,114.89,323826,haunted house,2024-10-01 15:19:00,True,Main Entrance
+462,"Miller, Michael",,female,2,46.1,54802,,2024-10-01 11:02:00,False,North Gate
+463,"Williams, Danielle",46.0,female,2,43.15,MIL2ZV,carousel,2024-10-01 21:56:00,False,East Gate
+464,"Smith, Sally",32.0,male,3,39.37,77080750,bumper cars,2024-10-01 11:07:00,True,East Gate
+465,"Johnson, Sally",,male,2,45.31,52857,nan,2024-10-01 18:05:00,False,East Gate
+466,"Jones, John",,male,2,29.15,WZHU60,bumper cars,2024-10-01 19:02:00,True,Main Entrance
+467,"Wilson, Michael",51.0,female,1,36.65,B3QYDV,bumper cars,2024-10-01 14:21:00,False,North Gate
+468,"Taylor, Michael",11.0,male,2,84.34,731518,haunted house,2024-10-01 20:27:00,False,East Gate
+469,"Wilson, Danielle",20.0,female,1,106.94,623051,haunted house,2024-10-01 12:13:00,True,Main Entrance
+470,"Johnson, Sam",17.0,male,1,132.53,9655,bumper cars,2024-10-01 18:13:00,True,Main Entrance
+471,"Smith, Sam",11.0,female,2,31.5,12652,water slide,2024-10-01 21:19:00,False,East Gate
+472,"Brown, Michelle",,male,2,77.31,232342,bumper cars,2024-10-01 13:22:00,True,North Gate
+473,"Smith, Sally",40.0,female,2,78.3,28065045,nan,2024-10-01 21:22:00,False,East Gate
+474,"Davis, Jane",25.0,male,1,125.57,3911,haunted house,2024-10-01 21:16:00,True,Main Entrance
+475,"Johnson, Daniel",39.0,male,3,37.26,13170552,carousel,2024-10-01 09:43:00,False,Main Entrance
+476,"Johnson, Christina",59.0,female,2,76.34,8Z1R1E,bumper cars,2024-10-01 21:48:00,True,North Gate
+477,"Moore, John",58.0,female,1,131.38,7766,,2024-10-01 09:42:00,False,Main Entrance
+478,"Jones, Sally",63.0,female,2,90.38,19042477,haunted house,2024-10-01 16:44:00,False,Main Entrance
+479,"Davis, Daniel",79.0,male,1,130.7,ILMS9J,bumper cars,2024-10-01 17:02:00,True,Main Entrance
+480,"Williams, Michelle",58.0,male,1,49.52,09158,water slide,2024-10-01 18:55:00,True,North Gate
+481,"Jones, Danielle",70.0,male,2,32.0,12071,haunted house,2024-10-01 18:17:00,True,East Gate
+482,"Williams, John",30.0,male,1,71.09,562097,carousel,2024-10-01 21:33:00,True,North Gate
+483,"Miller, Daniel",47.0,male,3,17.19,AR97MK,haunted house,2024-10-01 17:55:00,True,East Gate
+484,"Moore, Chris",23.0,female,1,46.88,74565,haunted house,2024-10-01 09:17:00,True,East Gate
+485,"Jones, Michael",23.0,female,2,47.75,GP9OTJ,rollercoaster,2024-10-01 09:55:00,False,East Gate
+486,"Smith, Danielle",,female,1,59.63,2203,nan,2024-10-01 18:40:00,True,Main Entrance
+487,"Miller, Danielle",32.0,female,1,104.16,74360074,haunted house,2024-10-01 16:49:00,False,Main Entrance
+488,"Williams, John",56.0,female,1,58.16,36217090,rollercoaster,2024-10-01 11:26:00,True,Main Entrance
+489,"Brown, Christina",7.0,male,2,93.84,M1EDX5,haunted house,2024-10-01 21:54:00,True,North Gate
+490,"Wilson, Danielle",28.0,male,2,59.19,6231,haunted house,2024-10-01 10:04:00,True,North Gate
+491,"Brown, Chris",71.0,female,2,57.28,50561,rollercoaster,2024-10-01 09:03:00,True,Main Entrance
+492,"Miller, Danielle",79.0,male,3,10.85,2514,rollercoaster,2024-10-01 09:27:00,False,East Gate
+493,"Smith, John",18.0,male,3,36.24,31381487,bumper cars,2024-10-01 09:53:00,True,Main Entrance
+494,"Johnson, Sam",62.0,male,2,55.07,025994,nan,2024-10-01 18:58:00,False,Main Entrance
+495,"Johnson, Sam",70.0,female,2,72.73,9250,bumper cars,2024-10-01 16:33:00,True,Main Entrance
+496,"Brown, Sam",67.0,female,2,32.89,6173,bumper cars,2024-10-01 20:10:00,False,North Gate
+497,"Davis, Chris",43.0,female,1,76.78,93234,carousel,2024-10-01 11:21:00,True,North Gate
+498,"Miller, Sally",17.0,male,2,96.61,9580,rollercoaster,2024-10-01 20:00:00,False,Main Entrance
+499,"Davis, Christina",34.0,male,2,30.6,0054,rollercoaster,2024-10-01 18:41:00,True,North Gate
+500,"Johnson, Michelle",,female,2,85.87,8882,bumper cars,2024-10-01 10:26:00,False,Main Entrance
+501,"Johnson, Michelle",45.0,male,2,66.99,TX2TXL,carousel,2024-10-01 12:38:00,True,East Gate
+502,"Wilson, Christina",66.0,female,2,34.25,272119,rollercoaster,2024-10-01 17:58:00,False,East Gate
+503,"Davis, Daniel",,female,2,42.09,33180246,,2024-10-01 09:15:00,True,North Gate
+504,"Williams, Sally",5.0,male,3,26.6,424400,haunted house,2024-10-01 18:04:00,True,East Gate
+505,"Taylor, Christina",60.0,male,3,38.75,61123645,haunted house,2024-10-01 21:00:00,True,Main Entrance
+506,"Wilson, John",8.0,female,1,124.24,823001,haunted house,2024-10-01 21:47:00,True,East Gate
+507,"Williams, Sam",77.0,male,2,59.12,69756257,bumper cars,2024-10-01 18:58:00,True,East Gate
+508,"Taylor, Daniel",,male,1,113.38,47643171,bumper cars,2024-10-01 18:16:00,False,Main Entrance
+509,"Williams, Michael",71.0,female,1,91.36,13417619,rollercoaster,2024-10-01 20:26:00,True,Main Entrance
+510,"Johnson, Chris",56.0,male,1,77.47,639799,carousel,2024-10-01 18:48:00,True,Main Entrance
+511,"Williams, Sally",22.0,male,1,55.92,936850,rollercoaster,2024-10-01 20:29:00,True,North Gate
+512,"Williams, Sam",75.0,female,3,18.63,35672,water slide,2024-10-01 18:15:00,True,Main Entrance
+513,"Miller, Jane",62.0,male,3,16.4,40797887,,2024-10-01 12:14:00,True,Main Entrance
+514,"Johnson, Sally",10.0,female,2,46.08,45186427,nan,2024-10-01 13:21:00,True,North Gate
+515,"Taylor, Sally",44.0,female,2,76.32,19847,rollercoaster,2024-10-01 11:34:00,True,Main Entrance
+516,"Brown, Jane",36.0,male,2,78.97,24283043,bumper cars,2024-10-01 15:51:00,True,East Gate
+517,"Williams, Christina",75.0,female,1,33.21,SC85YH,haunted house,2024-10-01 13:01:00,False,North Gate
+518,"Taylor, Jane",,male,3,26.08,9194,carousel,2024-10-01 11:30:00,True,North Gate
+519,"Davis, Michael",21.0,male,2,71.78,19854,carousel,2024-10-01 18:51:00,True,Main Entrance
+520,"Wilson, Sam",67.0,male,2,67.54,37495407,carousel,2024-10-01 11:19:00,True,North Gate
+521,"Williams, Sally",31.0,female,1,74.32,134208,haunted house,2024-10-01 13:32:00,True,Main Entrance
+522,"Smith, Christina",74.0,female,2,62.71,013772,bumper cars,2024-10-01 09:43:00,True,Main Entrance
+523,"Brown, Daniel",,male,3,26.57,09884,bumper cars,2024-10-01 11:44:00,True,East Gate
+524,"Wilson, Sally",49.0,male,2,21.5,292266,,2024-10-01 14:16:00,False,Main Entrance
+525,"Taylor, Michelle",,female,1,128.8,412097,carousel,2024-10-01 21:43:00,True,East Gate
+526,"Davis, Danielle",,female,2,30.94,2GUYCU,rollercoaster,2024-10-01 16:55:00,True,North Gate
+527,"Jones, Chris",36.0,female,2,39.58,AXH4HE,haunted house,2024-10-01 11:17:00,False,Main Entrance
+528,"Taylor, Chris",75.0,male,1,70.07,1995,haunted house,2024-10-01 09:42:00,False,North Gate
+529,"Wilson, John",36.0,male,2,86.18,254899,carousel,2024-10-01 11:21:00,True,North Gate
+530,"Jones, Danielle",21.0,male,3,44.5,I3NXSO,water slide,2024-10-01 11:20:00,False,East Gate
+531,"Johnson, Chris",57.0,female,1,79.48,52294,rollercoaster,2024-10-01 10:09:00,True,East Gate
+532,"Johnson, Jane",74.0,male,3,46.62,410261,carousel,2024-10-01 09:26:00,True,Main Entrance
+533,"Moore, Chris",18.0,female,1,76.73,HFYWYN,water slide,2024-10-01 11:22:00,True,North Gate
+534,"Miller, Christina",34.0,female,1,40.43,31803,bumper cars,2024-10-01 09:32:00,True,Main Entrance
+535,"Miller, Chris",61.0,male,2,76.19,81280,nan,2024-10-01 15:38:00,True,Main Entrance
+536,"Wilson, Chris",,male,1,148.03,90023,carousel,2024-10-01 15:26:00,True,North Gate
+537,"Taylor, Jane",19.0,male,3,19.9,160904,rollercoaster,2024-10-01 10:59:00,False,North Gate
+538,"Moore, Sam",71.0,male,1,42.26,MBLG02,rollercoaster,2024-10-01 09:29:00,True,Main Entrance
+539,"Moore, Jane",16.0,male,3,46.63,942051,bumper cars,2024-10-01 16:05:00,False,Main Entrance
+540,"Davis, Sam",65.0,male,2,21.57,3994,nan,2024-10-01 16:48:00,False,Main Entrance
+541,"Taylor, John",69.0,male,1,38.29,761826,water slide,2024-10-01 11:47:00,True,East Gate
+542,"Williams, Sam",60.0,female,3,42.5,5139,carousel,2024-10-01 09:27:00,True,North Gate
+543,"Smith, Jane",52.0,male,2,41.15,35618,carousel,2024-10-01 10:33:00,True,East Gate
+544,"Davis, Jane",,male,3,39.54,0461,rollercoaster,2024-10-01 17:32:00,False,East Gate
+545,"Brown, John",15.0,female,2,67.39,EMWYYF,bumper cars,2024-10-01 11:03:00,False,Main Entrance
+546,"Jones, Daniel",7.0,male,1,111.98,38503,carousel,2024-10-01 11:21:00,True,North Gate
+547,"Moore, Chris",,female,3,14.62,3902,carousel,2024-10-01 11:04:00,True,North Gate
+548,"Wilson, Sam",19.0,male,1,91.9,21437134,rollercoaster,2024-10-01 16:17:00,False,North Gate
+549,"Williams, Michael",67.0,male,1,97.17,978456,carousel,2024-10-01 16:35:00,True,East Gate
+550,"Williams, Christina",52.0,female,2,80.48,20115,carousel,2024-10-01 09:31:00,True,North Gate
+551,"Brown, Sam",28.0,female,1,32.87,PC7B4P,carousel,2024-10-01 18:41:00,True,Main Entrance
+552,"Davis, Christina",58.0,female,1,87.87,584138,,2024-10-01 12:48:00,True,Main Entrance
+553,"Davis, Michelle",38.0,male,1,58.36,76136151,bumper cars,2024-10-01 13:26:00,False,Main Entrance
+554,"Taylor, Michael",43.0,male,2,99.63,021429,rollercoaster,2024-10-01 15:22:00,True,East Gate
+555,"Taylor, Sally",16.0,female,3,41.11,52663,carousel,2024-10-01 16:15:00,True,North Gate
+556,"Moore, Danielle",28.0,female,1,79.42,1479,carousel,2024-10-01 18:21:00,False,Main Entrance
+557,"Brown, Sam",8.0,female,3,37.07,93966648,haunted house,2024-10-01 14:59:00,False,East Gate
+558,"Smith, Chris",27.0,female,2,49.1,8P2FMT,rollercoaster,2024-10-01 14:02:00,True,Main Entrance
+559,"Davis, Michael",29.0,female,2,64.36,59192,rollercoaster,2024-10-01 10:30:00,False,Main Entrance
+560,"Johnson, Sally",57.0,female,2,95.62,2919,water slide,2024-10-01 15:43:00,True,East Gate
+561,"Johnson, Sam",,male,1,85.84,3SWWZ6,nan,2024-10-01 21:28:00,True,North Gate
+562,"Moore, Michelle",61.0,male,2,95.38,97769369,carousel,2024-10-01 14:48:00,True,Main Entrance
+563,"Jones, John",6.0,female,2,70.78,586870,haunted house,2024-10-01 18:23:00,False,East Gate
+564,"Williams, John",66.0,female,1,92.88,2370,nan,2024-10-01 19:38:00,False,North Gate
+565,"Taylor, Sally",75.0,male,1,125.73,999615,carousel,2024-10-01 17:56:00,True,Main Entrance
+566,"Davis, Jane",51.0,female,3,26.71,45565477,nan,2024-10-01 10:56:00,True,North Gate
+567,"Williams, Daniel",73.0,female,1,125.82,5401,bumper cars,2024-10-01 13:11:00,True,Main Entrance
+568,"Moore, John",6.0,female,1,93.48,BTU6KI,haunted house,2024-10-01 09:06:00,False,East Gate
+569,"Moore, Sally",25.0,female,3,36.86,26497,carousel,2024-10-01 21:11:00,False,East Gate
+570,"Miller, Sam",39.0,female,2,33.36,18037,carousel,2024-10-01 13:52:00,True,East Gate
+571,"Williams, Michelle",78.0,female,2,77.65,6J89FL,,2024-10-01 17:47:00,True,Main Entrance
+572,"Moore, Christina",31.0,female,1,140.84,303931,haunted house,2024-10-01 09:48:00,False,East Gate
+573,"Williams, John",36.0,male,1,99.85,Z0LPDP,haunted house,2024-10-01 17:15:00,True,North Gate
+574,"Wilson, Chris",29.0,female,2,40.19,94925,rollercoaster,2024-10-01 20:11:00,False,Main Entrance
+575,"Taylor, Chris",,male,2,38.69,SESGE2,carousel,2024-10-01 18:43:00,True,Main Entrance
+576,"Moore, John",44.0,female,3,49.13,13664,bumper cars,2024-10-01 14:17:00,True,Main Entrance
+577,"Johnson, Chris",64.0,male,3,26.26,2195,bumper cars,2024-10-01 19:06:00,True,East Gate
+578,"Williams, Danielle",26.0,female,3,14.96,28580984,,2024-10-01 17:36:00,False,North Gate
+579,"Johnson, Daniel",72.0,female,2,24.52,38PL4D,rollercoaster,2024-10-01 19:09:00,True,East Gate
+580,"Wilson, Daniel",44.0,male,3,26.54,91685095,carousel,2024-10-01 21:22:00,True,East Gate
+581,"Johnson, Chris",61.0,female,1,74.91,21675117,haunted house,2024-10-01 19:07:00,True,North Gate
+582,"Wilson, Danielle",37.0,female,2,74.0,GCJTLM,nan,2024-10-01 16:57:00,True,East Gate
+583,"Wilson, Sally",64.0,female,2,28.88,6503,haunted house,2024-10-01 09:53:00,True,East Gate
+584,"Taylor, Daniel",10.0,male,1,46.12,03526,carousel,2024-10-01 12:14:00,True,Main Entrance
+585,"Wilson, Michael",,female,2,68.15,906560,haunted house,2024-10-01 15:24:00,True,East Gate
+586,"Johnson, Michelle",46.0,male,3,37.18,397115,haunted house,2024-10-01 12:59:00,False,Main Entrance
+587,"Smith, Sam",68.0,male,3,12.69,98Y7MB,carousel,2024-10-01 10:54:00,False,North Gate
+588,"Williams, Chris",5.0,male,2,23.17,506368,nan,2024-10-01 15:30:00,True,North Gate
+589,"Moore, Michelle",25.0,male,2,87.32,8482,carousel,2024-10-01 21:45:00,True,North Gate
+590,"Miller, Jane",45.0,female,1,58.04,52132,carousel,2024-10-01 14:05:00,False,East Gate
+591,"Johnson, John",17.0,male,2,44.65,61682278,bumper cars,2024-10-01 17:56:00,True,Main Entrance
+592,"Williams, Danielle",52.0,male,3,14.78,372158,haunted house,2024-10-01 16:15:00,True,East Gate
+593,"Wilson, Christina",76.0,female,3,22.75,USWSWM,bumper cars,2024-10-01 13:06:00,True,North Gate
+594,"Miller, Christina",72.0,female,1,81.04,518977,nan,2024-10-01 19:06:00,False,East Gate
+595,"Jones, Sally",15.0,female,2,38.82,16439034,bumper cars,2024-10-01 20:00:00,True,East Gate
+596,"Taylor, Sally",16.0,male,2,80.38,6IHXOK,haunted house,2024-10-01 10:32:00,True,North Gate
+597,"Moore, Sam",32.0,female,2,60.88,527510,haunted house,2024-10-01 16:11:00,True,East Gate
+598,"Moore, Christina",5.0,female,3,30.21,16129,,2024-10-01 15:05:00,True,East Gate
+599,"Smith, Chris",40.0,female,2,61.83,12584,rollercoaster,2024-10-01 21:07:00,True,Main Entrance
+600,"Taylor, Christina",11.0,female,2,69.46,05300,nan,2024-10-01 19:47:00,True,North Gate
+601,"Smith, Sally",52.0,female,2,44.48,1OHYT7,bumper cars,2024-10-01 16:24:00,False,North Gate
+602,"Williams, Michelle",5.0,male,1,56.06,72164,rollercoaster,2024-10-01 12:09:00,True,Main Entrance
+603,"Wilson, Sam",7.0,female,1,69.09,63593,bumper cars,2024-10-01 09:27:00,False,Main Entrance
+604,"Williams, Jane",41.0,female,1,69.32,776960,water slide,2024-10-01 12:25:00,False,Main Entrance
+605,"Williams, Danielle",6.0,male,2,99.87,465335,rollercoaster,2024-10-01 19:08:00,True,East Gate
+606,"Smith, John",70.0,female,3,45.7,876852,haunted house,2024-10-01 09:52:00,True,East Gate
+607,"Johnson, Sam",74.0,male,1,68.68,93717151,carousel,2024-10-01 13:06:00,True,East Gate
+608,"Smith, Michael",41.0,female,2,97.13,59NMCO,water slide,2024-10-01 13:25:00,True,Main Entrance
+609,"Taylor, Sally",68.0,male,3,42.79,4636,carousel,2024-10-01 17:20:00,True,North Gate
+610,"Smith, Daniel",26.0,male,3,41.31,OTUU1G,haunted house,2024-10-01 19:44:00,True,North Gate
+611,"Williams, Michael",37.0,male,2,52.03,9800,carousel,2024-10-01 21:34:00,True,East Gate
+612,"Taylor, Sally",61.0,female,2,36.28,3971,rollercoaster,2024-10-01 17:25:00,True,North Gate
+613,"Davis, Chris",49.0,female,2,43.77,230796,bumper cars,2024-10-01 20:07:00,False,Main Entrance
+614,"Wilson, Sally",23.0,male,1,122.39,BZMG6C,rollercoaster,2024-10-01 21:08:00,False,North Gate
+615,"Williams, Chris",13.0,female,2,51.02,23755,nan,2024-10-01 18:29:00,True,Main Entrance
+616,"Wilson, Chris",24.0,female,1,44.82,DCQRIJ,carousel,2024-10-01 13:15:00,True,East Gate
+617,"Brown, Chris",,male,1,81.7,88456741,nan,2024-10-01 17:44:00,True,East Gate
+618,"Wilson, Christina",62.0,male,2,53.12,64440398,carousel,2024-10-01 10:02:00,True,North Gate
+619,"Williams, Sally",72.0,male,1,75.14,7701,haunted house,2024-10-01 21:43:00,False,North Gate
+620,"Taylor, Christina",43.0,female,2,28.54,5981,haunted house,2024-10-01 12:57:00,True,North Gate
+621,"Wilson, Jane",56.0,female,2,25.08,52491927,rollercoaster,2024-10-01 09:19:00,False,East Gate
+622,"Moore, Sam",79.0,male,1,91.8,JYT1HN,carousel,2024-10-01 18:43:00,True,Main Entrance
+623,"Taylor, Christina",27.0,female,3,48.24,82253,bumper cars,2024-10-01 10:39:00,False,Main Entrance
+624,"Miller, Daniel",47.0,male,2,64.25,9666,rollercoaster,2024-10-01 20:10:00,True,North Gate
+625,"Miller, John",29.0,female,3,25.17,87855,nan,2024-10-01 17:45:00,True,North Gate
+626,"Taylor, Daniel",,female,3,40.01,09330,carousel,2024-10-01 14:55:00,True,East Gate
+627,"Jones, Danielle",67.0,female,2,58.18,4005,rollercoaster,2024-10-01 09:07:00,True,Main Entrance
+628,"Wilson, Daniel",74.0,female,2,43.37,0999,haunted house,2024-10-01 18:42:00,False,Main Entrance
+629,"Miller, Michael",67.0,male,2,91.09,3B8DV1,carousel,2024-10-01 09:53:00,False,East Gate
+630,"Jones, Michael",29.0,male,1,84.07,9388,haunted house,2024-10-01 20:29:00,False,Main Entrance
+631,"Moore, Michelle",41.0,male,1,67.22,105556,water slide,2024-10-01 20:19:00,True,Main Entrance
+632,"Miller, Danielle",61.0,female,1,129.1,83476,carousel,2024-10-01 10:01:00,True,East Gate
+633,"Brown, Jane",14.0,female,1,76.91,7221,haunted house,2024-10-01 12:26:00,True,North Gate
+634,"Smith, Christina",58.0,female,3,11.71,04790,,2024-10-01 11:28:00,True,North Gate
+635,"Williams, Daniel",26.0,female,2,45.81,502851,bumper cars,2024-10-01 20:41:00,True,Main Entrance
+636,"Moore, Michelle",52.0,female,2,46.14,07187,bumper cars,2024-10-01 17:35:00,True,North Gate
+637,"Wilson, Jane",71.0,female,2,93.37,83139,bumper cars,2024-10-01 20:01:00,False,North Gate
+638,"Johnson, Chris",24.0,male,1,134.98,162582,bumper cars,2024-10-01 09:05:00,False,North Gate
+639,"Moore, Christina",66.0,female,2,89.47,V4V18L,nan,2024-10-01 10:13:00,True,Main Entrance
+640,"Wilson, Daniel",42.0,female,1,45.78,370942,haunted house,2024-10-01 21:08:00,True,North Gate
+641,"Miller, Michelle",52.0,female,2,63.9,3519,carousel,2024-10-01 15:42:00,True,Main Entrance
+642,"Moore, Sam",58.0,female,2,80.81,5335,carousel,2024-10-01 16:15:00,True,East Gate
+643,"Williams, Sally",67.0,male,2,38.93,83682,haunted house,2024-10-01 13:23:00,True,North Gate
+644,"Smith, Christina",23.0,male,2,57.55,9116,haunted house,2024-10-01 12:18:00,True,North Gate
+645,"Taylor, John",,female,2,76.52,71154,haunted house,2024-10-01 11:43:00,True,East Gate
+646,"Johnson, John",56.0,female,3,14.97,5N0QP6,nan,2024-10-01 16:16:00,False,East Gate
+647,"Taylor, Daniel",69.0,male,2,28.44,85626,carousel,2024-10-01 11:43:00,False,East Gate
+648,"Jones, Sam",21.0,male,2,72.3,439042,haunted house,2024-10-01 18:01:00,True,North Gate
+649,"Smith, Michelle",38.0,male,2,69.95,02340101,rollercoaster,2024-10-01 14:35:00,False,Main Entrance
+650,"Moore, Daniel",37.0,female,2,65.3,51506,bumper cars,2024-10-01 11:18:00,False,Main Entrance
+651,"Johnson, Sally",43.0,female,3,48.75,87360,nan,2024-10-01 12:57:00,True,East Gate
+652,"Johnson, Sally",,female,3,21.73,8769,rollercoaster,2024-10-01 10:00:00,True,North Gate
+653,"Davis, Michelle",53.0,male,3,46.94,2043,haunted house,2024-10-01 16:00:00,False,North Gate
+654,"Brown, Sally",40.0,male,1,105.18,2854,haunted house,2024-10-01 09:04:00,True,North Gate
+655,"Miller, John",13.0,female,1,142.55,WSFQTZ,haunted house,2024-10-01 20:43:00,True,East Gate
+656,"Jones, Jane",72.0,female,3,36.55,03188,carousel,2024-10-01 16:12:00,False,North Gate
+657,"Williams, John",47.0,male,1,81.12,6362,water slide,2024-10-01 20:07:00,False,East Gate
+658,"Johnson, Christina",,female,2,54.65,TZA1QJ,bumper cars,2024-10-01 20:36:00,False,Main Entrance
+659,"Jones, Jane",10.0,male,2,49.96,28466326,rollercoaster,2024-10-01 15:58:00,False,East Gate
+660,"Smith, Michelle",31.0,female,2,61.73,7706,bumper cars,2024-10-01 12:10:00,True,Main Entrance
+661,"Taylor, Danielle",,female,1,68.26,2668,water slide,2024-10-01 16:58:00,True,Main Entrance
+662,"Davis, Danielle",,male,3,17.81,71682003,rollercoaster,2024-10-01 12:46:00,True,North Gate
+663,"Johnson, Michael",79.0,male,2,70.06,1553,water slide,2024-10-01 16:04:00,False,North Gate
+664,"Taylor, Jane",18.0,male,2,96.23,UZ9ORF,carousel,2024-10-01 20:04:00,False,Main Entrance
+665,"Moore, Michelle",73.0,male,2,45.78,X079HT,water slide,2024-10-01 13:09:00,False,North Gate
+666,"Davis, Christina",5.0,male,1,101.91,H3ZZTW,bumper cars,2024-10-01 15:42:00,True,Main Entrance
+667,"Johnson, Michelle",63.0,male,1,132.69,151386,carousel,2024-10-01 13:26:00,True,Main Entrance
+668,"Smith, Jane",73.0,female,2,87.05,7KQDOA,rollercoaster,2024-10-01 20:10:00,False,Main Entrance
+669,"Jones, Michael",58.0,male,1,148.54,408068,haunted house,2024-10-01 17:07:00,True,North Gate
+670,"Davis, Sam",50.0,male,3,10.06,11709652,carousel,2024-10-01 19:24:00,True,Main Entrance
+671,"Taylor, Sam",,female,1,140.9,GQGAH8,haunted house,2024-10-01 16:05:00,True,North Gate
+672,"Brown, Danielle",58.0,female,1,139.95,6423,carousel,2024-10-01 16:47:00,True,Main Entrance
+673,"Jones, Sally",76.0,male,3,21.08,ORVQWM,nan,2024-10-01 16:00:00,True,North Gate
+674,"Davis, Sam",57.0,female,1,51.85,312892,haunted house,2024-10-01 20:01:00,True,Main Entrance
+675,"Taylor, Michael",33.0,male,1,133.3,5259,water slide,2024-10-01 19:03:00,True,North Gate
+676,"Smith, John",,male,3,33.08,5NY2EQ,rollercoaster,2024-10-01 12:12:00,False,Main Entrance
+677,"Davis, Christina",49.0,male,3,37.44,25314,carousel,2024-10-01 17:00:00,True,Main Entrance
+678,"Wilson, Michael",50.0,female,3,43.67,545571,nan,2024-10-01 17:08:00,True,North Gate
+679,"Williams, Michael",53.0,male,2,45.68,6350,nan,2024-10-01 11:17:00,True,Main Entrance
+680,"Moore, Daniel",41.0,female,2,78.23,3448,,2024-10-01 17:49:00,True,Main Entrance
+681,"Miller, Daniel",51.0,male,2,95.32,734946,carousel,2024-10-01 10:06:00,False,North Gate
+682,"Williams, Michael",29.0,male,3,49.61,7096,haunted house,2024-10-01 14:25:00,True,East Gate
+683,"Davis, Sam",6.0,female,1,61.81,IGDS7R,carousel,2024-10-01 12:41:00,True,Main Entrance
+684,"Davis, Danielle",25.0,female,1,85.9,R8XVNC,carousel,2024-10-01 09:32:00,True,Main Entrance
+685,"Wilson, Michael",69.0,female,2,87.72,355374,haunted house,2024-10-01 12:05:00,True,Main Entrance
+686,"Davis, Michelle",65.0,female,3,24.31,38059322,bumper cars,2024-10-01 18:25:00,True,Main Entrance
+687,"Jones, John",53.0,female,2,48.25,40599,carousel,2024-10-01 14:12:00,True,North Gate
+688,"Wilson, Michael",35.0,female,2,83.61,WU48EU,rollercoaster,2024-10-01 19:13:00,True,East Gate
+689,"Moore, Michael",31.0,female,1,78.54,36238729,rollercoaster,2024-10-01 10:24:00,True,Main Entrance
+690,"Taylor, Daniel",76.0,male,2,25.31,30693830,haunted house,2024-10-01 20:02:00,False,East Gate
+691,"Williams, John",68.0,female,3,30.9,37731714,haunted house,2024-10-01 17:54:00,True,Main Entrance
+692,"Wilson, Christina",74.0,male,2,90.69,06385,haunted house,2024-10-01 10:50:00,False,North Gate
+693,"Wilson, Danielle",40.0,male,3,46.09,2V53MU,haunted house,2024-10-01 09:59:00,True,East Gate
+694,"Taylor, John",33.0,male,2,72.27,87J0Q9,haunted house,2024-10-01 12:21:00,False,North Gate
+695,"Brown, Sally",10.0,male,3,48.11,43694722,,2024-10-01 20:32:00,True,Main Entrance
+696,"Miller, Jane",24.0,male,1,40.35,183141,carousel,2024-10-01 19:05:00,True,North Gate
+697,"Smith, Sally",,female,3,11.03,6884,carousel,2024-10-01 19:36:00,False,North Gate
+698,"Miller, Christina",46.0,male,3,19.91,52641,rollercoaster,2024-10-01 12:09:00,True,East Gate
+699,"Wilson, Daniel",21.0,male,3,28.67,045595,rollercoaster,2024-10-01 09:53:00,True,North Gate
+700,"Johnson, John",62.0,male,2,74.35,84160674,nan,2024-10-01 12:13:00,True,East Gate
+701,"Williams, Daniel",41.0,male,2,63.82,652780,bumper cars,2024-10-01 09:41:00,True,Main Entrance
+702,"Jones, Christina",69.0,female,2,99.8,044054,rollercoaster,2024-10-01 09:06:00,True,Main Entrance
+703,"Jones, Sally",15.0,male,2,62.06,98810974,carousel,2024-10-01 20:48:00,True,North Gate
+704,"Brown, Sally",63.0,female,2,93.14,87318637,bumper cars,2024-10-01 15:21:00,True,East Gate
+705,"Davis, Christina",42.0,female,1,43.92,21345672,haunted house,2024-10-01 18:07:00,False,Main Entrance
+706,"Davis, Daniel",63.0,male,3,19.12,015456,haunted house,2024-10-01 21:04:00,True,East Gate
+707,"Miller, John",28.0,female,2,22.81,494474,haunted house,2024-10-01 20:33:00,False,Main Entrance
+708,"Moore, Daniel",46.0,male,1,125.47,40347156,bumper cars,2024-10-01 19:08:00,False,Main Entrance
+709,"Moore, Chris",64.0,female,2,67.87,GC79H7,carousel,2024-10-01 14:41:00,True,East Gate
+710,"Wilson, Christina",39.0,female,1,40.15,078245,rollercoaster,2024-10-01 09:14:00,False,East Gate
+711,"Taylor, Sam",69.0,male,3,31.58,EGY7K7,rollercoaster,2024-10-01 13:48:00,False,North Gate
+712,"Williams, Christina",,male,1,87.54,B4CHPT,haunted house,2024-10-01 13:30:00,True,North Gate
+713,"Johnson, Sam",53.0,female,1,101.14,8EQVFA,water slide,2024-10-01 19:32:00,True,Main Entrance
+714,"Wilson, Daniel",62.0,male,3,45.16,2912,haunted house,2024-10-01 11:44:00,True,East Gate
+715,"Moore, Sam",25.0,female,1,122.91,S9DRQ9,carousel,2024-10-01 17:37:00,True,Main Entrance
+716,"Moore, John",59.0,male,2,24.73,42415,rollercoaster,2024-10-01 20:42:00,True,East Gate
+717,"Brown, Michelle",9.0,male,1,54.45,945361,carousel,2024-10-01 16:10:00,False,North Gate
+718,"Jones, Chris",70.0,male,2,87.74,59092607,water slide,2024-10-01 12:12:00,True,East Gate
+719,"Jones, Sally",39.0,male,1,92.78,045300,nan,2024-10-01 19:12:00,False,East Gate
+720,"Moore, John",50.0,male,1,125.38,53IFHJ,haunted house,2024-10-01 10:16:00,True,Main Entrance
+721,"Jones, Sally",,male,2,48.92,5LI7XD,rollercoaster,2024-10-01 16:10:00,True,East Gate
+722,"Jones, Jane",49.0,male,2,95.73,89710423,nan,2024-10-01 19:15:00,False,East Gate
+723,"Jones, Christina",19.0,female,2,99.65,05509526,,2024-10-01 17:51:00,True,East Gate
+724,"Miller, Christina",,female,1,124.89,5015,bumper cars,2024-10-01 21:44:00,True,East Gate
+725,"Davis, Christina",18.0,male,1,144.83,97637684,bumper cars,2024-10-01 13:38:00,True,East Gate
+726,"Moore, Chris",56.0,male,3,45.41,57505633,haunted house,2024-10-01 10:08:00,True,North Gate
+727,"Taylor, Michelle",70.0,male,1,106.31,84742,,2024-10-01 10:02:00,True,North Gate
+728,"Davis, Daniel",71.0,female,1,114.37,FGZEM2,bumper cars,2024-10-01 18:56:00,True,East Gate
+729,"Johnson, Sam",42.0,female,1,68.53,69684,carousel,2024-10-01 10:21:00,True,North Gate
+730,"Smith, Jane",9.0,male,3,34.67,628296,rollercoaster,2024-10-01 10:01:00,True,East Gate
+731,"Miller, Jane",39.0,female,1,143.55,32784409,carousel,2024-10-01 10:30:00,True,Main Entrance
+732,"Miller, Michelle",64.0,female,2,67.2,V0901Z,haunted house,2024-10-01 13:36:00,True,Main Entrance
+733,"Wilson, Jane",40.0,female,1,109.23,E7MFRX,rollercoaster,2024-10-01 14:07:00,True,North Gate
+734,"Wilson, Daniel",6.0,female,3,12.34,35897301,bumper cars,2024-10-01 16:41:00,False,North Gate
+735,"Wilson, Sam",,male,3,14.05,101689,nan,2024-10-01 21:32:00,False,East Gate
+736,"Brown, John",18.0,female,1,38.34,4ANXRI,water slide,2024-10-01 17:34:00,True,Main Entrance
+737,"Wilson, Christina",,male,2,79.41,281420,rollercoaster,2024-10-01 19:10:00,True,Main Entrance
+738,"Brown, John",22.0,female,2,37.2,879128,bumper cars,2024-10-01 12:38:00,False,North Gate
+739,"Miller, Michelle",75.0,male,1,83.9,92924237,,2024-10-01 10:21:00,True,North Gate
+740,"Williams, Jane",52.0,female,3,17.42,99848,carousel,2024-10-01 17:18:00,False,East Gate
+741,"Brown, Michael",,male,1,102.16,DL0F00,carousel,2024-10-01 09:06:00,True,Main Entrance
+742,"Smith, Christina",26.0,female,2,73.36,IRNP4J,haunted house,2024-10-01 11:02:00,True,Main Entrance
+743,"Smith, Sam",52.0,female,3,42.84,49060,rollercoaster,2024-10-01 10:14:00,True,North Gate
+744,"Miller, Jane",15.0,male,1,149.09,7834,carousel,2024-10-01 20:24:00,True,Main Entrance
+745,"Davis, Jane",,male,3,36.17,N2BGS5,water slide,2024-10-01 20:24:00,True,North Gate
+746,"Moore, Jane",54.0,female,1,45.89,01039370,bumper cars,2024-10-01 17:53:00,True,Main Entrance
+747,"Davis, Christina",,female,3,23.77,971928,bumper cars,2024-10-01 18:30:00,True,East Gate
+748,"Moore, Jane",56.0,female,2,71.18,0637,haunted house,2024-10-01 20:13:00,True,Main Entrance
+749,"Wilson, John",39.0,male,3,47.84,25132329,carousel,2024-10-01 14:52:00,False,East Gate
+750,"Williams, Jane",42.0,female,3,27.33,0418,water slide,2024-10-01 11:53:00,True,East Gate
+751,"Taylor, Christina",60.0,male,1,98.68,TQ5M6H,carousel,2024-10-01 17:33:00,True,North Gate
+752,"Moore, Daniel",22.0,female,1,44.74,771951,rollercoaster,2024-10-01 17:49:00,False,North Gate
+753,"Williams, Danielle",8.0,male,1,65.45,393381,carousel,2024-10-01 18:10:00,False,East Gate
+754,"Davis, Chris",35.0,male,1,51.15,16498486,rollercoaster,2024-10-01 09:21:00,True,Main Entrance
+755,"Smith, Danielle",24.0,male,2,74.36,82705495,carousel,2024-10-01 21:35:00,True,Main Entrance
+756,"Miller, Sally",,male,2,36.79,93964,carousel,2024-10-01 15:01:00,True,North Gate
+757,"Brown, Daniel",29.0,female,2,41.45,F265XI,water slide,2024-10-01 19:03:00,True,Main Entrance
+758,"Johnson, Danielle",26.0,female,2,96.83,4B3Y5P,bumper cars,2024-10-01 14:22:00,False,East Gate
+759,"Wilson, Chris",,male,2,52.14,88763112,rollercoaster,2024-10-01 17:09:00,True,East Gate
+760,"Davis, Sam",22.0,male,2,42.42,7DJ46P,bumper cars,2024-10-01 16:52:00,False,Main Entrance
+761,"Smith, Michelle",52.0,female,3,22.88,AAN4LJ,,2024-10-01 14:08:00,True,North Gate
+762,"Taylor, John",12.0,female,1,38.36,0SWC6X,carousel,2024-10-01 12:53:00,True,Main Entrance
+763,"Wilson, Sam",47.0,female,1,124.29,010883,carousel,2024-10-01 17:07:00,False,Main Entrance
+764,"Jones, Chris",38.0,female,3,26.31,02080,rollercoaster,2024-10-01 15:16:00,False,East Gate
+765,"Davis, Sally",40.0,female,3,17.72,191554,water slide,2024-10-01 20:56:00,True,East Gate
+766,"Miller, Jane",79.0,male,1,48.18,45877,haunted house,2024-10-01 09:15:00,False,East Gate
+767,"Moore, Chris",25.0,female,3,18.52,01181462,bumper cars,2024-10-01 10:46:00,False,North Gate
+768,"Taylor, John",35.0,male,3,21.11,620804,haunted house,2024-10-01 10:20:00,True,Main Entrance
+769,"Johnson, Danielle",40.0,male,2,49.26,123243,bumper cars,2024-10-01 21:19:00,True,Main Entrance
+770,"Jones, Sam",13.0,male,1,32.05,7290,bumper cars,2024-10-01 14:05:00,False,Main Entrance
+771,"Wilson, Michelle",,female,2,55.01,141388,bumper cars,2024-10-01 11:45:00,True,East Gate
+772,"Davis, Michelle",21.0,male,1,37.49,1871,carousel,2024-10-01 09:02:00,False,East Gate
+773,"Williams, Sally",21.0,female,3,40.2,FIG7PE,haunted house,2024-10-01 14:46:00,True,Main Entrance
+774,"Johnson, Michelle",37.0,female,1,57.28,94386,rollercoaster,2024-10-01 09:23:00,False,Main Entrance
+775,"Jones, Jane",,male,2,34.04,I98ZRD,,2024-10-01 14:24:00,True,North Gate
+776,"Wilson, John",73.0,female,1,103.85,KX5LE7,rollercoaster,2024-10-01 12:47:00,True,Main Entrance
+777,"Moore, Michelle",41.0,male,1,60.46,7295,water slide,2024-10-01 16:01:00,False,East Gate
+778,"Miller, Sally",53.0,male,3,39.0,BNQ96G,haunted house,2024-10-01 18:34:00,False,North Gate
+779,"Taylor, Jane",57.0,female,1,121.97,HNJL9J,carousel,2024-10-01 14:08:00,False,East Gate
+780,"Johnson, Michael",33.0,female,2,86.45,3189,carousel,2024-10-01 09:26:00,True,East Gate
+781,"Taylor, Daniel",5.0,female,3,34.37,6476,rollercoaster,2024-10-01 17:13:00,False,Main Entrance
+782,"Taylor, Danielle",30.0,male,2,26.06,194406,carousel,2024-10-01 14:01:00,True,North Gate
+783,"Taylor, Daniel",72.0,female,2,62.16,G0Y43E,bumper cars,2024-10-01 17:59:00,True,Main Entrance
+784,"Davis, Sally",51.0,male,1,78.13,7TOAAO,water slide,2024-10-01 19:53:00,True,North Gate
+785,"Davis, Jane",8.0,male,2,38.05,87940866,nan,2024-10-01 15:48:00,False,Main Entrance
+786,"Johnson, Jane",68.0,female,1,83.76,4731,nan,2024-10-01 17:07:00,False,East Gate
+787,"Brown, Sam",53.0,male,2,92.74,8002,,2024-10-01 10:21:00,True,East Gate
+788,"Jones, Jane",13.0,female,1,75.9,09314966,rollercoaster,2024-10-01 16:39:00,True,East Gate
+789,"Moore, Christina",6.0,female,3,16.5,8256,bumper cars,2024-10-01 19:54:00,True,North Gate
+790,"Smith, Christina",63.0,female,1,121.14,2301,haunted house,2024-10-01 13:57:00,True,Main Entrance
+791,"Miller, Michael",41.0,male,2,74.64,U610OM,rollercoaster,2024-10-01 18:10:00,False,Main Entrance
+792,"Williams, Sam",,male,2,65.02,81661223,bumper cars,2024-10-01 18:45:00,True,East Gate
+793,"Wilson, Daniel",72.0,female,1,100.28,35672,haunted house,2024-10-01 18:44:00,True,Main Entrance
+794,"Davis, Chris",9.0,male,2,66.7,IZK8AE,nan,2024-10-01 10:48:00,False,Main Entrance
+795,"Wilson, Michael",74.0,male,2,50.85,0758,bumper cars,2024-10-01 18:03:00,False,North Gate
+796,"Johnson, Michelle",11.0,male,1,46.58,647354,carousel,2024-10-01 13:52:00,True,Main Entrance
+797,"Brown, Michelle",29.0,male,1,114.92,534620,haunted house,2024-10-01 09:36:00,True,East Gate
+798,"Taylor, John",51.0,male,3,32.28,3920,carousel,2024-10-01 19:46:00,False,North Gate
+799,"Taylor, Michael",64.0,female,3,35.72,45779654,rollercoaster,2024-10-01 18:30:00,True,North Gate
+800,"Davis, Christina",,male,3,25.28,89525,rollercoaster,2024-10-01 10:28:00,True,East Gate
+801,"Davis, Chris",20.0,female,2,21.46,439487,carousel,2024-10-01 12:41:00,True,East Gate
+802,"Davis, Michelle",35.0,female,2,68.08,130DAL,haunted house,2024-10-01 20:14:00,True,Main Entrance
+803,"Davis, Daniel",16.0,female,2,64.64,OK5TQ1,bumper cars,2024-10-01 11:17:00,False,Main Entrance
+804,"Smith, Daniel",34.0,female,1,59.0,555438,bumper cars,2024-10-01 09:42:00,False,East Gate
+805,"Miller, Danielle",23.0,female,2,84.35,799221,rollercoaster,2024-10-01 11:08:00,True,North Gate
+806,"Wilson, Michelle",24.0,male,3,35.73,3548,bumper cars,2024-10-01 09:12:00,True,North Gate
+807,"Smith, Sally",40.0,female,3,37.71,4AKKND,carousel,2024-10-01 16:27:00,True,East Gate
+808,"Smith, Michael",11.0,male,1,68.57,8V9HG7,haunted house,2024-10-01 17:36:00,True,Main Entrance
+809,"Miller, Sam",34.0,female,2,77.83,54754,water slide,2024-10-01 17:27:00,True,East Gate
+810,"Miller, Jane",42.0,female,3,28.71,00050365,rollercoaster,2024-10-01 17:09:00,True,Main Entrance
+811,"Miller, Sam",45.0,male,1,127.99,933478,bumper cars,2024-10-01 13:42:00,True,East Gate
+812,"Johnson, John",27.0,male,2,53.41,2177,water slide,2024-10-01 11:13:00,True,Main Entrance
+813,"Smith, Daniel",22.0,male,2,85.94,CE30PO,carousel,2024-10-01 09:56:00,False,East Gate
+814,"Moore, Michelle",66.0,female,1,146.81,73408,carousel,2024-10-01 19:42:00,True,East Gate
+815,"Miller, Jane",50.0,female,2,39.61,049658,carousel,2024-10-01 09:14:00,True,East Gate
+816,"Williams, Michelle",18.0,female,3,45.26,2ICANR,bumper cars,2024-10-01 09:32:00,False,Main Entrance
+817,"Smith, Sally",47.0,male,2,26.79,840583,rollercoaster,2024-10-01 14:08:00,True,Main Entrance
+818,"Brown, Michelle",62.0,female,2,66.54,XG5DP8,bumper cars,2024-10-01 14:12:00,False,Main Entrance
+819,"Wilson, John",,female,2,43.17,UPFUVZ,rollercoaster,2024-10-01 10:58:00,False,Main Entrance
+820,"Jones, Danielle",25.0,male,2,55.1,48289,rollercoaster,2024-10-01 20:01:00,True,East Gate
+821,"Moore, Jane",69.0,female,2,91.47,55033128,carousel,2024-10-01 15:39:00,True,Main Entrance
+822,"Wilson, Chris",51.0,male,1,62.54,QKATL5,rollercoaster,2024-10-01 11:20:00,True,East Gate
+823,"Miller, Michael",36.0,female,2,62.3,57190,carousel,2024-10-01 13:40:00,True,North Gate
+824,"Smith, Christina",22.0,female,2,98.83,2929,bumper cars,2024-10-01 13:26:00,True,North Gate
+825,"Wilson, Chris",74.0,male,2,71.85,21376,bumper cars,2024-10-01 18:42:00,True,Main Entrance
+826,"Wilson, John",23.0,male,2,77.63,0799,carousel,2024-10-01 12:25:00,True,Main Entrance
+827,"Jones, Chris",15.0,female,1,41.19,9506,carousel,2024-10-01 16:58:00,True,North Gate
+828,"Williams, Michelle",17.0,male,1,93.76,1548,bumper cars,2024-10-01 14:49:00,True,North Gate
+829,"Brown, Michelle",74.0,male,3,19.39,44906,rollercoaster,2024-10-01 09:02:00,True,Main Entrance
+830,"Wilson, Daniel",73.0,female,3,45.6,EEYO4G,carousel,2024-10-01 21:16:00,False,Main Entrance
+831,"Taylor, Daniel",,male,2,52.37,043543,haunted house,2024-10-01 12:52:00,True,East Gate
+832,"Wilson, Chris",77.0,male,2,63.11,77134,water slide,2024-10-01 09:42:00,True,Main Entrance
+833,"Wilson, Daniel",46.0,male,2,98.25,13763570,carousel,2024-10-01 17:06:00,False,North Gate
+834,"Johnson, Michelle",52.0,male,2,87.61,7261,nan,2024-10-01 15:01:00,True,Main Entrance
+835,"Taylor, Christina",78.0,male,3,14.68,79663,carousel,2024-10-01 14:42:00,True,East Gate
+836,"Moore, Sally",20.0,male,2,84.06,38963,nan,2024-10-01 19:52:00,True,East Gate
+837,"Williams, Danielle",48.0,female,3,40.85,HQ8T8J,carousel,2024-10-01 21:07:00,False,Main Entrance
+838,"Jones, Jane",,male,3,48.82,024367,nan,2024-10-01 19:55:00,True,North Gate
+839,"Brown, Jane",30.0,female,2,57.85,480428,haunted house,2024-10-01 11:31:00,True,North Gate
+840,"Miller, Chris",38.0,female,2,43.75,EQDHHZ,rollercoaster,2024-10-01 17:16:00,True,Main Entrance
+841,"Johnson, Sam",21.0,male,2,73.75,XIHDMB,bumper cars,2024-10-01 20:00:00,True,Main Entrance
+842,"Taylor, Sally",37.0,female,2,87.47,50981,bumper cars,2024-10-01 14:54:00,True,Main Entrance
+843,"Smith, Christina",22.0,male,2,36.78,76381,haunted house,2024-10-01 17:56:00,False,East Gate
+844,"Brown, Sam",,female,3,38.82,872198,rollercoaster,2024-10-01 11:09:00,True,East Gate
+845,"Williams, John",47.0,female,3,28.98,28871,rollercoaster,2024-10-01 11:57:00,False,Main Entrance
+846,"Wilson, Michelle",58.0,female,3,33.45,29528,carousel,2024-10-01 19:14:00,True,East Gate
+847,"Smith, Sam",75.0,male,2,31.7,57360,water slide,2024-10-01 20:01:00,True,East Gate
+848,"Davis, Daniel",,female,2,50.93,95813,water slide,2024-10-01 21:15:00,False,Main Entrance
+849,"Jones, Jane",71.0,male,2,66.47,51775727,bumper cars,2024-10-01 10:55:00,True,East Gate
+850,"Wilson, Sam",25.0,female,2,70.3,YBIGL1,rollercoaster,2024-10-01 20:58:00,True,North Gate
+851,"Jones, Chris",37.0,female,2,28.87,4337,nan,2024-10-01 11:37:00,False,North Gate
+852,"Moore, Michael",44.0,female,1,113.39,2974,haunted house,2024-10-01 20:52:00,True,North Gate
+853,"Williams, Michelle",,male,2,89.1,2320,bumper cars,2024-10-01 09:42:00,True,Main Entrance
+854,"Moore, Sam",45.0,male,2,62.07,3347,rollercoaster,2024-10-01 09:57:00,True,East Gate
+855,"Johnson, Daniel",6.0,female,2,88.36,BWWEH9,haunted house,2024-10-01 12:53:00,True,Main Entrance
+856,"Wilson, Christina",24.0,female,2,54.34,05561,carousel,2024-10-01 19:54:00,True,North Gate
+857,"Williams, Michael",44.0,male,2,98.41,610WTH,rollercoaster,2024-10-01 10:21:00,False,Main Entrance
+858,"Wilson, Sam",50.0,male,1,125.42,61715,rollercoaster,2024-10-01 13:16:00,True,North Gate
+859,"Miller, Jane",54.0,male,3,40.91,74KCGK,water slide,2024-10-01 18:27:00,True,Main Entrance
+860,"Moore, Sam",,male,2,76.34,80654,rollercoaster,2024-10-01 13:29:00,True,East Gate
+861,"Johnson, Chris",77.0,male,2,28.68,95554233,bumper cars,2024-10-01 16:20:00,True,North Gate
+862,"Williams, Chris",,female,3,27.49,9635,,2024-10-01 20:16:00,False,East Gate
+863,"Wilson, Sam",78.0,female,1,46.85,83030617,haunted house,2024-10-01 19:33:00,True,Main Entrance
+864,"Miller, Michael",42.0,female,3,37.23,40664314,haunted house,2024-10-01 21:22:00,False,Main Entrance
+865,"Smith, John",73.0,male,3,25.5,QC94IC,carousel,2024-10-01 19:42:00,True,East Gate
+866,"Moore, Danielle",33.0,male,1,130.54,433329,haunted house,2024-10-01 18:46:00,True,North Gate
+867,"Smith, Sam",44.0,female,3,48.99,093595,water slide,2024-10-01 11:48:00,True,North Gate
+868,"Miller, Michelle",66.0,male,2,95.82,98441,haunted house,2024-10-01 13:15:00,False,North Gate
+869,"Davis, John",8.0,female,2,32.47,53948772,carousel,2024-10-01 16:32:00,True,East Gate
+870,"Wilson, Sally",,male,2,52.29,7177,,2024-10-01 18:55:00,True,Main Entrance
+871,"Wilson, John",61.0,male,2,85.89,95483034,carousel,2024-10-01 12:32:00,True,North Gate
+872,"Jones, Sam",57.0,male,2,32.01,717340,haunted house,2024-10-01 18:03:00,True,East Gate
+873,"Jones, Christina",51.0,female,1,54.3,714015,,2024-10-01 13:58:00,False,Main Entrance
+874,"Moore, Michael",70.0,female,2,62.24,8152,carousel,2024-10-01 15:37:00,True,North Gate
+875,"Johnson, Sam",64.0,female,3,45.83,QGCQ9G,nan,2024-10-01 13:35:00,True,East Gate
+876,"Davis, Michael",40.0,male,2,85.08,62244,nan,2024-10-01 20:05:00,False,Main Entrance
+877,"Johnson, Jane",34.0,male,2,95.44,619550,water slide,2024-10-01 11:24:00,True,East Gate
+878,"Brown, Sally",,female,2,97.09,30134,rollercoaster,2024-10-01 15:00:00,True,North Gate
+879,"Brown, Sam",67.0,male,1,40.73,4420,haunted house,2024-10-01 13:58:00,True,Main Entrance
+880,"Moore, Daniel",15.0,male,2,97.79,OHGQU1,water slide,2024-10-01 21:23:00,True,North Gate
+881,"Johnson, Sam",69.0,male,2,76.02,46061,haunted house,2024-10-01 11:52:00,False,East Gate
+882,"Johnson, Daniel",56.0,female,2,64.86,385293,,2024-10-01 14:48:00,False,East Gate
+883,"Johnson, Christina",15.0,female,2,69.42,59843384,rollercoaster,2024-10-01 11:49:00,True,East Gate
+884,"Johnson, Daniel",6.0,female,2,78.95,L5LSLC,rollercoaster,2024-10-01 18:54:00,True,East Gate
+885,"Brown, Daniel",30.0,female,2,56.18,38840,bumper cars,2024-10-01 09:00:00,False,Main Entrance
+886,"Moore, Christina",17.0,female,3,27.95,7717,nan,2024-10-01 21:55:00,True,East Gate
+887,"Taylor, John",26.0,male,1,39.67,50394,bumper cars,2024-10-01 14:30:00,True,North Gate
+888,"Smith, Sam",27.0,female,2,78.64,28091115,nan,2024-10-01 09:17:00,False,North Gate
+889,"Jones, Michael",,female,3,43.57,GK5WHZ,haunted house,2024-10-01 16:53:00,True,Main Entrance
+890,"Davis, Jane",23.0,male,2,78.5,29107,rollercoaster,2024-10-01 13:49:00,True,North Gate
+891,"Davis, Michael",72.0,male,2,98.54,79572,haunted house,2024-10-01 15:44:00,True,North Gate
+892,"Miller, Christina",79.0,female,2,95.49,2900,bumper cars,2024-10-01 18:13:00,True,North Gate
+893,"Smith, Michael",,female,2,66.68,6103,rollercoaster,2024-10-01 09:03:00,True,North Gate
+894,"Smith, Chris",9.0,male,3,43.73,70336,,2024-10-01 16:45:00,False,East Gate
+895,"Davis, Michael",68.0,female,1,104.68,32198343,nan,2024-10-01 10:51:00,True,Main Entrance
+896,"Davis, Michael",31.0,female,3,18.34,UPHLS4,nan,2024-10-01 13:02:00,False,Main Entrance
+897,"Wilson, Danielle",,male,2,88.42,83075,rollercoaster,2024-10-01 11:53:00,False,North Gate
+898,"Wilson, John",10.0,male,2,65.94,5289,rollercoaster,2024-10-01 15:53:00,False,Main Entrance
+899,"Jones, Sam",,female,3,47.44,11035,water slide,2024-10-01 20:04:00,False,North Gate
+900,"Williams, Danielle",61.0,male,2,81.94,4913,carousel,2024-10-01 13:41:00,False,North Gate
+901,"Davis, Michelle",29.0,male,1,143.71,60211,carousel,2024-10-01 14:41:00,True,Main Entrance
+902,"Miller, Daniel",48.0,male,2,52.16,423498,bumper cars,2024-10-01 14:47:00,True,East Gate
+903,"Johnson, Jane",41.0,female,2,58.94,694853,bumper cars,2024-10-01 18:29:00,True,North Gate
+904,"Brown, Chris",32.0,female,1,36.82,8230,bumper cars,2024-10-01 16:14:00,False,Main Entrance
+905,"Brown, Michelle",,female,2,75.4,8577,carousel,2024-10-01 13:43:00,True,North Gate
+906,"Brown, Sally",5.0,female,1,85.82,29530,,2024-10-01 15:21:00,False,Main Entrance
+907,"Williams, Michelle",40.0,male,3,23.9,N3D5PX,haunted house,2024-10-01 17:39:00,True,East Gate
+908,"Smith, Jane",56.0,male,1,98.1,4007,,2024-10-01 15:48:00,False,East Gate
+909,"Williams, Jane",,male,2,57.41,UNJ092,bumper cars,2024-10-01 14:12:00,True,North Gate
+910,"Jones, John",15.0,male,1,145.83,90431273,nan,2024-10-01 17:12:00,True,North Gate
+911,"Johnson, Jane",18.0,female,3,41.2,2653,carousel,2024-10-01 09:19:00,True,Main Entrance
+912,"Jones, Michelle",34.0,female,3,26.69,619966,haunted house,2024-10-01 12:16:00,True,North Gate
+913,"Taylor, Danielle",49.0,female,1,80.23,68708944,carousel,2024-10-01 13:07:00,True,North Gate
+914,"Smith, Michelle",53.0,male,2,28.22,5516,carousel,2024-10-01 20:54:00,False,East Gate
+915,"Jones, Michelle",42.0,female,2,85.31,75736019,water slide,2024-10-01 19:09:00,True,East Gate
+916,"Taylor, Christina",71.0,female,1,48.67,344187,haunted house,2024-10-01 09:10:00,True,Main Entrance
+917,"Williams, Danielle",53.0,male,3,34.96,087415,carousel,2024-10-01 19:56:00,False,Main Entrance
+918,"Wilson, Daniel",68.0,male,1,93.17,8076,carousel,2024-10-01 19:09:00,True,Main Entrance
+919,"Williams, Sam",23.0,female,2,73.05,9VHGFW,haunted house,2024-10-01 10:38:00,True,Main Entrance
+920,"Miller, John",78.0,female,3,33.14,2125,nan,2024-10-01 19:13:00,False,North Gate
+921,"Moore, John",46.0,male,1,73.11,23967263,bumper cars,2024-10-01 11:20:00,True,East Gate
+922,"Davis, Chris",24.0,female,2,55.16,I4A93H,rollercoaster,2024-10-01 14:24:00,False,Main Entrance
+923,"Wilson, Daniel",25.0,male,2,92.64,295831,nan,2024-10-01 20:48:00,True,North Gate
+924,"Smith, Christina",67.0,male,1,61.96,9506,rollercoaster,2024-10-01 19:26:00,False,North Gate
+925,"Jones, Sam",16.0,male,1,30.16,R8SU3Z,rollercoaster,2024-10-01 16:28:00,False,Main Entrance
+926,"Moore, Chris",69.0,female,3,26.4,12212,haunted house,2024-10-01 21:46:00,False,North Gate
+927,"Smith, Daniel",23.0,male,3,31.34,23187,rollercoaster,2024-10-01 13:40:00,True,East Gate
+928,"Johnson, Sam",26.0,male,2,53.88,34962,nan,2024-10-01 10:25:00,True,East Gate
+929,"Davis, Michael",73.0,female,2,49.49,2J1H3N,carousel,2024-10-01 16:08:00,False,East Gate
+930,"Brown, Danielle",,female,2,43.08,19994488,rollercoaster,2024-10-01 14:26:00,True,East Gate
+931,"Moore, Michael",44.0,male,2,43.53,0509,rollercoaster,2024-10-01 21:39:00,True,North Gate
+932,"Davis, Christina",35.0,female,1,42.23,88571,nan,2024-10-01 09:05:00,True,North Gate
+933,"Smith, Michelle",31.0,female,2,39.16,E0EG54,carousel,2024-10-01 17:57:00,True,North Gate
+934,"Taylor, Sam",66.0,male,2,63.34,42800430,rollercoaster,2024-10-01 17:55:00,True,Main Entrance
+935,"Williams, Christina",33.0,male,1,47.06,26532,bumper cars,2024-10-01 15:07:00,True,East Gate
+936,"Moore, Daniel",65.0,female,3,18.45,50211,nan,2024-10-01 21:54:00,False,Main Entrance
+937,"Miller, Chris",33.0,male,1,70.4,21757489,bumper cars,2024-10-01 18:01:00,False,East Gate
+938,"Smith, Christina",23.0,male,2,39.22,PQZIY7,,2024-10-01 13:11:00,True,Main Entrance
+939,"Jones, Chris",68.0,male,1,72.0,45334,water slide,2024-10-01 15:56:00,True,East Gate
+940,"Wilson, Christina",41.0,male,2,70.38,314876,haunted house,2024-10-01 19:50:00,False,Main Entrance
+941,"Davis, Michael",77.0,male,3,31.82,242838,,2024-10-01 20:23:00,True,Main Entrance
+942,"Davis, Sam",34.0,male,2,40.19,46120,rollercoaster,2024-10-01 11:49:00,True,North Gate
+943,"Davis, Daniel",39.0,female,2,61.3,CJJSP1,rollercoaster,2024-10-01 14:40:00,True,North Gate
+944,"Wilson, Danielle",57.0,female,2,46.95,56050035,,2024-10-01 13:42:00,True,East Gate
+945,"Jones, Sam",5.0,male,2,89.76,FS92PK,rollercoaster,2024-10-01 18:29:00,True,North Gate
+946,"Brown, Daniel",72.0,female,1,130.52,149613,carousel,2024-10-01 20:35:00,True,North Gate
+947,"Johnson, Christina",77.0,female,2,73.09,46190851,carousel,2024-10-01 15:01:00,False,North Gate
+948,"Wilson, Christina",52.0,male,1,33.99,2101,nan,2024-10-01 21:02:00,False,North Gate
+949,"Williams, Daniel",17.0,male,2,86.94,4KLCJF,nan,2024-10-01 21:25:00,True,East Gate
+950,"Taylor, Sam",43.0,female,2,82.56,15294778,carousel,2024-10-01 16:22:00,True,Main Entrance
+951,"Johnson, John",,male,2,26.3,19284197,carousel,2024-10-01 14:10:00,True,Main Entrance
+952,"Brown, Christina",45.0,female,1,62.77,MVWJFB,haunted house,2024-10-01 16:53:00,True,East Gate
+953,"Brown, Michael",22.0,female,1,137.56,841136,rollercoaster,2024-10-01 17:17:00,False,Main Entrance
+954,"Moore, John",,female,3,24.32,9614,carousel,2024-10-01 10:53:00,True,Main Entrance
+955,"Williams, Christina",72.0,female,3,18.15,032308,nan,2024-10-01 19:01:00,True,North Gate
+956,"Williams, Michael",74.0,female,1,68.52,9792,bumper cars,2024-10-01 14:27:00,False,East Gate
+957,"Brown, Michelle",66.0,male,2,70.86,4968,carousel,2024-10-01 17:41:00,False,Main Entrance
+958,"Williams, Chris",22.0,male,2,89.97,79527,rollercoaster,2024-10-01 11:19:00,True,Main Entrance
+959,"Williams, Michael",28.0,female,2,57.67,52086,water slide,2024-10-01 18:05:00,True,East Gate
+960,"Taylor, Michael",43.0,male,3,39.35,533116,rollercoaster,2024-10-01 18:35:00,True,North Gate
+961,"Taylor, Daniel",56.0,female,3,30.35,47988765,haunted house,2024-10-01 13:47:00,False,East Gate
+962,"Taylor, Michelle",62.0,male,1,36.52,8740,haunted house,2024-10-01 14:17:00,True,East Gate
+963,"Moore, Michelle",,male,2,31.96,03510,nan,2024-10-01 16:41:00,False,North Gate
+964,"Davis, Michael",37.0,male,3,31.88,29127193,haunted house,2024-10-01 19:14:00,False,East Gate
+965,"Moore, Michael",53.0,male,3,10.54,7892,rollercoaster,2024-10-01 14:05:00,False,Main Entrance
+966,"Davis, John",69.0,female,3,23.75,748453,haunted house,2024-10-01 16:51:00,False,Main Entrance
+967,"Johnson, Christina",60.0,female,1,47.35,NZSGT5,rollercoaster,2024-10-01 16:19:00,True,North Gate
+968,"Taylor, Jane",71.0,male,2,38.6,515417,bumper cars,2024-10-01 18:11:00,True,North Gate
+969,"Brown, Daniel",31.0,female,1,49.87,813067,bumper cars,2024-10-01 18:15:00,True,North Gate
+970,"Smith, Daniel",27.0,male,3,18.58,527007,carousel,2024-10-01 12:19:00,True,East Gate
+971,"Smith, Danielle",,male,1,45.32,705889,bumper cars,2024-10-01 20:33:00,True,East Gate
+972,"Wilson, Chris",64.0,male,2,64.79,19941,carousel,2024-10-01 11:08:00,True,North Gate
+973,"Jones, John",,male,2,22.99,02490,rollercoaster,2024-10-01 15:05:00,False,East Gate
+974,"Brown, Michelle",,male,3,29.71,66013121,rollercoaster,2024-10-01 18:59:00,False,Main Entrance
+975,"Taylor, Sam",,female,2,97.45,441525,bumper cars,2024-10-01 17:56:00,True,Main Entrance
+976,"Taylor, Jane",46.0,female,2,31.37,5726,haunted house,2024-10-01 10:34:00,False,North Gate
+977,"Wilson, Sally",79.0,male,2,22.55,0796,carousel,2024-10-01 16:30:00,False,East Gate
+978,"Brown, Sally",62.0,female,1,101.83,7253,carousel,2024-10-01 19:52:00,True,East Gate
+979,"Miller, Sam",11.0,male,2,33.25,60571,bumper cars,2024-10-01 10:07:00,False,East Gate
+980,"Williams, Michelle",,female,2,72.13,39120435,nan,2024-10-01 14:07:00,True,North Gate
+981,"Taylor, Danielle",20.0,male,1,36.95,21655215,nan,2024-10-01 11:35:00,True,North Gate
+982,"Wilson, Michael",23.0,female,2,91.65,65512,haunted house,2024-10-01 12:41:00,True,North Gate
+983,"Davis, Sam",48.0,female,2,65.34,59965367,carousel,2024-10-01 14:48:00,False,Main Entrance
+984,"Smith, Sam",63.0,female,2,57.5,5944,haunted house,2024-10-01 19:51:00,True,Main Entrance
+985,"Moore, Danielle",30.0,male,2,61.2,KSVOAZ,carousel,2024-10-01 13:11:00,True,East Gate
+986,"Miller, Sam",,male,2,66.07,6348,bumper cars,2024-10-01 13:13:00,False,East Gate
+987,"Wilson, John",77.0,female,1,116.36,NDD2FA,haunted house,2024-10-01 15:46:00,True,East Gate
+988,"Moore, Jane",7.0,female,2,80.83,RBURBJ,carousel,2024-10-01 21:44:00,True,North Gate
+989,"Smith, Chris",78.0,female,3,14.38,13430550,carousel,2024-10-01 21:40:00,True,Main Entrance
+990,"Wilson, Michelle",36.0,male,1,58.14,2861,rollercoaster,2024-10-01 11:48:00,False,North Gate
+991,"Johnson, Sally",67.0,male,2,51.55,6783,bumper cars,2024-10-01 10:19:00,True,Main Entrance
+992,"Brown, Jane",,female,2,28.4,K4UV1Y,haunted house,2024-10-01 11:08:00,False,North Gate
+993,"Miller, Sally",55.0,female,1,141.7,KVJ1GP,haunted house,2024-10-01 16:31:00,True,Main Entrance
+994,"Moore, Christina",76.0,female,3,44.73,25698156,rollercoaster,2024-10-01 11:18:00,False,North Gate
+995,"Jones, Michael",,female,2,23.63,1499,haunted house,2024-10-01 14:22:00,False,Main Entrance
+996,"Williams, Chris",71.0,male,2,80.8,IHNFA0,haunted house,2024-10-01 16:32:00,True,East Gate
+997,"Wilson, Michelle",,female,1,71.43,O18I5V,bumper cars,2024-10-01 14:27:00,True,Main Entrance
+998,"Wilson, Chris",64.0,female,1,89.36,QBERRX,carousel,2024-10-01 16:01:00,False,North Gate
+999,"Jones, Michelle",,female,3,10.47,506172,carousel,2024-10-01 12:15:00,True,North Gate
+1000,"Davis, Christina",48.0,female,1,70.55,23098603,carousel,2024-10-01 16:06:00,False,North Gate
