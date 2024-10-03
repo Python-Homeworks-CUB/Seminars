@@ -11,8 +11,7 @@ Write a function `average_time(x, is_tired)` that returns the average time in ho
 4.0
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def average_time(x: int, is_tired: int) -> float:
@@ -39,8 +38,7 @@ True
 False
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def is_leap(year: int) -> bool:
@@ -72,8 +70,7 @@ Write a function `cake(a, b)` that returns the minimum number of pieces needed t
 24
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def cake(a: int, b: int) -> int:
@@ -89,8 +86,7 @@ print(cake(12, 8))  # 24
 ```
 </details>
 
-<details>
-    <summary><b>Solution (using the <code>math</code> module)</b></summary>
+<details><summary><b>Solution (using the <code>math</code> module)</b></summary>
 
 ```py
 from math import lcm
@@ -122,8 +118,7 @@ Write a function `calc(expr)` that returns the result of the expression `expr`.
 8
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def calc(expr: str) -> int:

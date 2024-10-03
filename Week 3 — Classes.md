@@ -4,8 +4,7 @@ Write a class named `Circle` with attributes `center` and `radius`. The `center`
 
 Also, write a method named `point_in_circle` that takes a `Point` as an argument and returns True if the `Point` lies in or on the boundary of the circle.
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 class Point:
@@ -53,8 +52,7 @@ Hint: Use `property` to create the `first` attribute.
 [5, 2, 3, 4]
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 class UserList(list):
@@ -104,8 +102,7 @@ Create a dataclass named `Student` with the following specifications:
   * Use the `__post_init__` method to compute the average grade and `field(init=False)` to make the attribute initialization after the object creation.
   * Use the `order` parameter of the `dataclass` decorator and `compare` parameter of the `field` method.
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 from dataclasses import dataclass, field
@@ -131,8 +128,7 @@ class Student:
 </details>
 
 
-<details>
-    <summary><b>Solution (custom order method: <code>__lt__()</code>)</b></summary>
+<details><summary><b>Solution (custom order method: <code>__lt__()</code>)</b></summary>
 
 ```py
 from dataclasses import dataclass, field
@@ -219,8 +215,7 @@ print(kanga)
 # print(roo)
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 # The bug in the code arises from the mutability of lists in Python.

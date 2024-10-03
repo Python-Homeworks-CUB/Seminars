@@ -33,8 +33,7 @@ Example:
 [3, 6, 9]
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def sum_with_step_k(nums, k):
@@ -71,8 +70,7 @@ For example:
 True
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 # Using a list
@@ -119,8 +117,7 @@ Example:
 ```
 In this example, the first element is 1, the second element is 1 + 2 = 3, and the third element is 1 + 2 + 3 = 6.
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def cumsum(t):
@@ -166,8 +163,7 @@ Expected output:
 ```
 Hint: You can use setdefault method to create a new dictionary for each customer ID.
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def total_by_client(transactions: list) -> dict:
@@ -190,8 +186,7 @@ print(total_by_client(transactions))  # {1: {'apple': 8, 'banana': 2}, 2: {'bana
 ```
 </details>
 
-<details>
-    <summary><b>Solution (using <code>defaultdict</code>)</b></summary>
+<details><summary><b>Solution (using <code>defaultdict</code>)</b></summary>
 
 ```py
 from collections import defaultdict
@@ -248,8 +243,7 @@ Expected output:
 
 Hint: Use set operations like union, intersection, and difference (`|`, `&`, `-`).
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def optimize_courses(math: set, science: set, art: set) -> dict:
@@ -293,8 +287,7 @@ For example:
 [2, 3]
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def chop(t):
@@ -323,8 +316,7 @@ True
 False
 ```
 
-<details>
-    <summary><b>Solution</b></summary>
+<details><summary><b>Solution</b></summary>
 
 ```py
 def is_anagram(word1, word2):
