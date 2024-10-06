@@ -36,7 +36,7 @@
 			<td>1</td>
 			<td><a href="Week 1 — Basics.md">Basics</a></td>
 			<td><a href="https://classroom.github.com/a/SLG27MGQ">https://classroom.github.com/a/SLG27MGQ</a></td>
-			<td>September 19, 23:59</td>
+			<td>October 7, 23:59</td>
 		</tr>
 		<tr>
 			<td>2</td>
