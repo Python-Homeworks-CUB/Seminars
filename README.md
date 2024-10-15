@@ -70,48 +70,54 @@
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>NumPy & Scipy (+ Pandas?)</td>
-			<td></td>
-			<td></td>
+			<td><a href="Week 6 — Pandas.md">Pandas</a></td>
+			<td><a href="https://classroom.github.com/a/qIz4gJ53">https://classroom.github.com/a/qIz4gJ53</a></td>
+			<td>October 25, 23:59</td>
 		</tr>
 		<tr>
 			<td>7</td>
-			<td>Plot</td>
+			<td>Scipy</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>8</td>
-			<td>IO</td>
+			<td>Plot</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>9</td>
-			<td>Packages</td>
+			<td>IO</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>Strings</td>
+			<td>Packages</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Exceptions</td>
+			<td>Strings</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>12</td>
-			<td>Generators & Async</td>
+			<td>Exceptions</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>13</td>
+			<td>Generators & Async</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>14</td>
 			<td>Decorators & Lambdas</td>
 			<td></td>
 			<td></td>
