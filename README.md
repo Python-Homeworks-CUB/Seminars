@@ -77,8 +77,8 @@
 		<tr>
 			<td>7</td>
 			<td>Scipy</td>
-			<td></td>
-			<td></td>
+			<td><a href="https://classroom.github.com/a/1JTFJcAn">https://classroom.github.com/a/1JTFJcAn</a></td>
+			<td>October 31, 23:59</td>
 		</tr>
 		<tr>
 			<td>8</td>
