@@ -66,13 +66,13 @@
 			<td>5</td>
 			<td><a href="Week 5 — NumPy.md">NumPy</a></td>
 			<td><a href="https://classroom.github.com/a/aR2Ud0u9">https://classroom.github.com/a/aR2Ud0u9</a></td>
-			<td>October 20, 23:59</td>
+			<td>October 23, 23:59</td>
 		</tr>
 		<tr>
 			<td>6</td>
 			<td><a href="Week 6 — Pandas.md">Pandas</a></td>
 			<td><a href="https://classroom.github.com/a/qIz4gJ53">https://classroom.github.com/a/qIz4gJ53</a></td>
-			<td>October 25, 23:59</td>
+			<td>October 27, 23:59</td>
 		</tr>
 		<tr>
 			<td>7</td>
