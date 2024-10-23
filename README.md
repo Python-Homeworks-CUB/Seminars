@@ -82,9 +82,9 @@
 		</tr>
 		<tr>
 			<td>8</td>
-			<td>Matplotlib</td>
-			<td></td>
-			<td></td>
+			<td><a href="Week 8 — Matplotlib.md">Matplotlib</a></td>
+			<td>TBA</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>9</td>
