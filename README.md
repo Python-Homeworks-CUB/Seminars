@@ -83,12 +83,12 @@
 		<tr>
 			<td>8</td>
 			<td><a href="Week 8 — Matplotlib.md">Matplotlib</a></td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td><a href="https://classroom.github.com/a/sMYNKRdM">https://classroom.github.com/a/sMYNKRdM</a></td>
+			<td>November 8, 23:59</td>
 		</tr>
 		<tr>
 			<td>9</td>
-			<td>IO</td>
+			<td>I/O</td>
 			<td></td>
 			<td></td>
 		</tr>
