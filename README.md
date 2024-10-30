@@ -89,8 +89,8 @@
 		<tr>
 			<td>9</td>
 			<td>I/O</td>
-			<td></td>
-			<td></td>
+			<td>TBA</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>10</td>
