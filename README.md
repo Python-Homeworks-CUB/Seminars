@@ -89,8 +89,8 @@
 		<tr>
 			<td>9</td>
 			<td>I/O</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td><a href="https://classroom.github.com/a/SXUBlVoE">https://classroom.github.com/a/SXUBlVoE</a></td>
+			<td>November 13, 23:59</td>
 		</tr>
 		<tr>
 			<td>10</td>
