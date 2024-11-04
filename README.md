@@ -94,13 +94,13 @@
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>Packages</td>
+			<td>Strings</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Strings</td>
+			<td>Packages</td>
 			<td></td>
 			<td></td>
 		</tr>
