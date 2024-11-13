@@ -95,18 +95,18 @@
 		<tr>
 			<td>10</td>
 			<td><a href="Week 10 — Strings.md">Strings</a></td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td><a href="https://classroom.github.com/a/wK8AgvyE">https://classroom.github.com/a/wK8AgvyE</a></td>
+			<td>November 26, 23:59</td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Packages</td>
-			<td></td>
-			<td></td>
+			<td>Exceptions</td>
+			<td>TBA</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>12</td>
-			<td>Exceptions</td>
+			<td>Packages</td>
 			<td></td>
 			<td></td>
 		</tr>
