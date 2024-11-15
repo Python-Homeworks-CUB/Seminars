@@ -100,7 +100,7 @@
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Exceptions</td>
+			<td><a href="Week 11 — Exceptions.md">Exceptions</a></td>
 			<td>TBA</td>
 			<td>TBA</td>
 		</tr>
