@@ -106,7 +106,7 @@
 		</tr>
 		<tr>
 			<td>12</td>
-			<td>Packages</td>
+			<td><a href="Week 12 — Packages.md">Packages.md</a></td>
 			<td></td>
 			<td></td>
 		</tr>
