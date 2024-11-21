@@ -60,7 +60,7 @@ f()
 ```py
 # x = 4 # what if uncomment this line?
 
-from some_file import x # global scope as well
+from week12_imports.some_file import x # global scope as well
 
 # x = 5 # what if uncomment this line?
 def f():
@@ -73,10 +73,20 @@ def f():
 f()
 ```
 
+Output:
+```
+1
+```
+
 ```py
 # built-in scope
 
 print(print) # <built-in function print>
+```
+
+Output:
+```
+<built-in function print>
 ```
 
 
@@ -109,6 +119,15 @@ outer()
 print(x)  # What will this print?
 ```
 
+Output:
+```
+global
+enclosing
+modified global
+modified enclosing
+modified global
+```
+
 ```py
 f = 10
 
@@ -116,6 +135,11 @@ def f():
     print(f)
 
 f()
+```
+
+Output:
+```
+<function f at 0x000001E8DC185DA0>
 ```
 
 ```py
@@ -136,10 +160,27 @@ print("normal print: ")
 print(data)
 ```
 
+Output:
+```
+pretty print:
+{'age': 30,
+ 'children': [{'age': 10, 'name': 'Jane'}, {'age': 8, 'name': 'Doe'}],
+ 'name': 'John'}
+normal print:
+{'name': 'John', 'age': 30, 'children': [{'name': 'Jane', 'age': 10}, {'name': 'Doe', 'age': 8}]}
+```
+
 ```py
 from pprint import pprint as print
 
 print(data)  # which one is called?
+```
+
+Output:
+```
+{'age': 30,
+ 'children': [{'age': 10, 'name': 'Jane'}, {'age': 8, 'name': 'Doe'}],
+ 'name': 'John'}
 ```
 
 ## Importing modules
