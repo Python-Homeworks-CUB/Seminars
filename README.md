@@ -101,8 +101,8 @@
 		<tr>
 			<td>11</td>
 			<td><a href="Week 11 — Exceptions.md">Exceptions</a></td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td><a href="https://classroom.github.com/a/qcDvni1P">https://classroom.github.com/a/qcDvni1P</a></td>
+			<td>December 10, 23:59</td>
 		</tr>
 		<tr>
 			<td>12</td>
