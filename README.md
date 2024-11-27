@@ -112,12 +112,18 @@
 		</tr>
 		<tr>
 			<td>13</td>
+			<td><a href="Week 13 — Functional Programming.md">Functional Programming</a></td>
+			<td>TBA</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>14?</td>
 			<td>Generators & Async</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>14</td>
+			<td>15?</td>
 			<td>Decorators & Lambdas</td>
 			<td></td>
 			<td></td>
