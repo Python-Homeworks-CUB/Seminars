@@ -95,8 +95,20 @@
 		<tr>
 			<td>10</td>
 			<td><a href="Week 10 — Strings.md">Strings</a></td>
-			<td><a href="https://classroom.github.com/a/wK8AgvyE">https://classroom.github.com/a/wK8AgvyE</a></td>
-			<td>November 26, 23:59</td>
+			<td>
+				⚠️⚠️⚠️
+				<br>
+				<s><a href="https://classroom.github.com/a/wK8AgvyE">https://classroom.github.com/a/wK8AgvyE</a></s>
+				<br>
+				<a href="https://classroom.github.com/a/ZXXoxbpf">https://classroom.github.com/a/ZXXoxbpf</a>
+			</td>
+			<td>
+				⚠️⚠️⚠️
+				<br>
+				<s>November 26, 23:59</s>
+				<br>
+				December 07, 23:59
+			</td>
 		</tr>
 		<tr>
 			<td>11</td>
@@ -107,26 +119,26 @@
 		<tr>
 			<td>12</td>
 			<td><a href="Week 12 — Packages.md">Packages</a></td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>No homework 🥳</td>
+			<td>⸺</td>
 		</tr>
 		<tr>
 			<td>13</td>
 			<td><a href="Week 13 — Functional Programming.md">Functional Programming</a></td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td><a href="https://classroom.github.com/a/BAQBg7uO">https://classroom.github.com/a/BAQBg7uO</a></td>
+			<td>December 13, 23:59</td>
 		</tr>
 		<tr>
 			<td>14?</td>
 			<td>Generators & Async</td>
-			<td></td>
-			<td></td>
+			<td>No homework 🥳</td>
+			<td>⸺</td>
 		</tr>
 		<tr>
 			<td>15?</td>
 			<td>Decorators & Lambdas</td>
-			<td></td>
-			<td></td>
+			<td>No homework 🥳</td>
+			<td>⸺</td>
 		</tr>
 	</tbody>
 </table>
