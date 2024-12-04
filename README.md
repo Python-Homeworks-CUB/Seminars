@@ -1,5 +1,4 @@
 <h1 align="center">Scientific Programming with Python</h1>
-<!-- <p align="center"><b>For the Scientific Programming with Python course</b></p> -->
 
 <br>
 
@@ -129,14 +128,8 @@
 			<td>December 13, 23:59</td>
 		</tr>
 		<tr>
-			<td>14?</td>
-			<td>Generators & Async</td>
-			<td>No homework 🥳</td>
-			<td>⸺</td>
-		</tr>
-		<tr>
-			<td>15?</td>
-			<td>Decorators & Lambdas</td>
+			<td>14</td>
+			<td><a href="notebooks/week14_bonus">Bonus</a></td>
 			<td>No homework 🥳</td>
 			<td>⸺</td>
 		</tr>
